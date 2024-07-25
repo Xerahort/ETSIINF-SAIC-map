@@ -1,5 +1,157 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SAIC 2.2]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>SAIC 2.2</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 25 Jul 2024 11:17:30 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 25 Jul 2024 11:17:29 GMT</pubDate><copyright><![CDATA[Jose Barambones]]></copyright><ttl>60</ttl><dc:creator>Jose Barambones</dc:creator><item><title><![CDATA[index]]></title><description><![CDATA[ 
- ]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Thu, 25 Jul 2024 11:16:48 GMT</pubDate></item><item><title><![CDATA[Documento]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SAIC 2.2]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>SAIC 2.2</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 25 Jul 2024 11:48:20 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 25 Jul 2024 11:48:19 GMT</pubDate><copyright><![CDATA[Jose Barambones]]></copyright><ttl>60</ttl><dc:creator>Jose Barambones</dc:creator><item><title><![CDATA[Lista Procesos Clave]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="PR-CL-001" href="\PR-CL-001" class="internal-link" target="_self" rel="noopener">PR-CL-001</a>
+<br><a data-href="PR-CL-002" href="\PR-CL-002" class="internal-link" target="_self" rel="noopener">PR-CL-002</a>
+<br><a data-href="PR-CL-003" href="\PR-CL-003" class="internal-link" target="_self" rel="noopener">PR-CL-003</a>
+<br><a data-href="PR-CL-004" href="\PR-CL-004" class="internal-link" target="_self" rel="noopener">PR-CL-004</a>
+<br><a data-href="PR-CL-005" href="\PR-CL-005" class="internal-link" target="_self" rel="noopener">PR-CL-005</a>
+<br><a data-href="PR-CL-006" href="\PR-CL-006" class="internal-link" target="_self" rel="noopener">PR-CL-006</a>
+<br><a data-href="PR-CL-007" href="\PR-CL-007" class="internal-link" target="_self" rel="noopener">PR-CL-007</a>
+<br><a data-href="PR-CL-008" href="\PR-CL-008" class="internal-link" target="_self" rel="noopener">PR-CL-008</a>
+<br><a data-href="PR-CL-009" href="\PR-CL-009" class="internal-link" target="_self" rel="noopener">PR-CL-009</a>
+<br><a data-href="PR-CL-010" href="\PR-CL-010" class="internal-link" target="_self" rel="noopener">PR-CL-010</a>
+<br><a data-href="PR-CL-011" href="\PR-CL-011" class="internal-link" target="_self" rel="noopener">PR-CL-011</a>
+<br><a data-href="PR-CL-012" href="\PR-CL-012" class="internal-link" target="_self" rel="noopener">PR-CL-012</a>
+<br><a data-href="PR-CL-013" href="\PR-CL-013" class="internal-link" target="_self" rel="noopener">PR-CL-013</a>
+<br><a data-href="PR-CL-014" href="\PR-CL-014" class="internal-link" target="_self" rel="noopener">PR-CL-014</a>
+<br><a data-href="PR-CL-015" href="\PR-CL-015" class="internal-link" target="_self" rel="noopener">PR-CL-015</a>
+<br><a data-href="PR-CL-016" href="\PR-CL-016" class="internal-link" target="_self" rel="noopener">PR-CL-016</a>
+<br><a data-href="PR-CL-017" href="\PR-CL-017" class="internal-link" target="_self" rel="noopener">PR-CL-017</a>
+<br><a data-href="PR-CL-018" href="\PR-CL-018" class="internal-link" target="_self" rel="noopener">PR-CL-018</a>
+<br><a data-href="PR-CL-019" href="\PR-CL-019" class="internal-link" target="_self" rel="noopener">PR-CL-019</a>
+]]></description><link>procesos\clave\lista-procesos-clave.html</link><guid isPermaLink="false">Procesos/Clave/Lista Procesos Clave.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Thu, 25 Jul 2024 11:36:35 GMT</pubDate></item><item><title><![CDATA[Lista Procesos Estratégicos]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="PR-ES-001" href="\procesos\estratégicos\pr-es-001.html" class="internal-link" target="_self" rel="noopener">PR-ES-001</a> Elaboración y Revisión PAC
+<br><a data-href="PR-ES-002" href="\procesos\estratégicos\pr-es-002.html" class="internal-link" target="_self" rel="noopener">PR-ES-002</a> Gestión Titulaciones Oficiales
+<br><a data-href="PR-ES-003" href="\procesos\estratégicos\pr-es-003.html" class="internal-link" target="_self" rel="noopener">PR-ES-003</a> Seguimiento Interno de Títulos Oficiales
+<br><a data-href="PR-ES-004" href="\procesos\estratégicos\pr-es-004.html" class="internal-link" target="_self" rel="noopener">PR-ES-004</a> Publicación de la Información
+<br><a data-href="PR-ES-005" href="\procesos\estratégicos\pr-es-005.html" class="internal-link" target="_self" rel="noopener">PR-ES-005</a> Rectorado UPM
+<br><a data-href="PR-ES-006" href="\procesos\estratégicos\pr-es-006.html" class="internal-link" target="_self" rel="noopener">PR-ES-006</a> CANCELADO
+<br><a data-href="PR-ES-007" href="\procesos\estratégicos\pr-es-007.html" class="internal-link" target="_self" rel="noopener">PR-ES-007</a> Seguimiento Programas de Doctorado
+<br><a data-href="PR-ES-008" href="\procesos\estratégicos\pr-es-008.html" class="internal-link" target="_self" rel="noopener">PR-ES-008</a> Elaboración y Revisión de la Política y Objetivos de Calidad
+<br><a data-href="PR-ES-009" href="\procesos\estratégicos\pr-es-009.html" class="internal-link" target="_self" rel="noopener">PR-ES-009</a> Auditoría Interna
+]]></description><link>procesos\estratégicos\lista-procesos-estratégicos.html</link><guid isPermaLink="false">Procesos/Estratégicos/Lista Procesos Estratégicos.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Thu, 25 Jul 2024 11:40:55 GMT</pubDate></item><item><title><![CDATA[PR-ES-001]]></title><description><![CDATA[ 
+ <br><br><br>
+<br><a data-href="REF_PR-ES-001(01)" href="\procesos\códigos\referencias\ref_pr-es-001(01).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(01)</a> Guía para la elaboración del PAC y sus herramientas.
+<br><a data-href="REF_PR-ES-001(02)" href="\procesos\códigos\referencias\ref_pr-es-001(02).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(02)</a> Plantilla del Plan Anual de Calidad.
+<br><a data-href="REF_PR-ES-001(03)" href="\procesos\códigos\referencias\ref_pr-es-001(03).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(03)</a> Plantilla del cuadro de análisis de estado del proceso.
+<br><a data-href="REF_PR-ES-001(04)" href="\procesos\códigos\referencias\ref_pr-es-001(04).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(04)</a> Plantilla del cuadro de mando integral.
+<br><a data-href="REF_PR-ES-001(05)" href="\procesos\códigos\referencias\ref_pr-es-001(05).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(05)</a> Plantilla de ficha del indicador.
+<br><a data-href="REF_PR-ES-008(03)" href="\procesos\códigos\referencias\ref_pr-es-008(03).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-008(03)</a> Manual de Calidad vigente.
+<br><a data-href="Evidencias e indicadores recogidos en los procesos del SAIC" href="\procesos\códigos\otros\evidencias-e-indicadores-recogidos-en-los-procesos-del-saic.html" class="internal-link" target="_self" rel="noopener">Evidencias e indicadores recogidos en los procesos del SAIC</a>.
+<br><a data-href="REF_PR-ES-001(06)" href="\procesos\códigos\referencias\ref_pr-es-001(06).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(06)</a> Plan Estratégico del Centro vigente.
+<br><a data-href="ANX_PR-ES-001(06)YY-1" href="\procesos\códigos\anexos\anx_pr-es-001(06)yy-1.html" class="internal-link" target="_self" rel="noopener">ANX_PR-ES-001(06)YY-1</a> Plan Anual de Calidad del año anterior al actual YY.
+<br><a data-href="REF_PR-ES-001(07a)" href="\procesos\códigos\referencias\ref_pr-es-001(07a).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(07a)</a> Informe definitivo vigente de acreditación del sistema de calidad (SISCAL).
+<br><a data-href="REF_PR-ES-001(07b)" href="\procesos\códigos\referencias\ref_pr-es-001(07b).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(07b)</a> Informe definitivo vigente acreditación institucional.
+<br><a data-href="REF_PR-ES-001(07c)TT" href="\procesos\códigos\referencias\ref_pr-es-001(07c)tt.html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(07c)TT</a> Informe definitivo vigente de verificación del título TT.
+<br><a data-href="REF_PR-ES-001(07d)TT" href="\procesos\códigos\referencias\ref_pr-es-001(07d)tt.html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(07d)TT</a> Informe definitivo vigente del sello de calidad EUROINF del título TT.
+<br><a data-href="REF_PR-ES-001(07e)TT" href="\procesos\códigos\referencias\ref_pr-es-001(07e)tt.html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(07e)TT</a> Informe definitivo vigente del sello de calidad ABET del título TT.
+<br><a data-href="ANX_PR-ES-009(02)YY" href="\procesos\códigos\anexos\anx_pr-es-009(02)yy.html" class="internal-link" target="_self" rel="noopener">ANX_PR-ES-009(02)YY</a> Informe de auditoría interna por parte de la unidad de calidad de Rectorado UPM al informe de seguimiento de la implantación del SAIC en el año YY .
+<br><br>
+<br><a data-href="ANX_PR-ES-001(01)YY_II" href="\procesos\códigos\anexos\anx_pr-es-001(01)yy_ii.html" class="internal-link" target="_self" rel="noopener">ANX_PR-ES-001(01)YY_II</a> Ficha rellenada del indicador II en el año YY.
+<br><a data-href="ANX_PR-ES-001(02)YY" href="\procesos\códigos\anexos\anx_pr-es-001(02)yy.html" class="internal-link" target="_self" rel="noopener">ANX_PR-ES-001(02)YY</a> Cuadro de mando integral del año YY.
+<br><a data-href="ANX_PR-ES-001(03)YY_PP" href="\procesos\códigos\anexos\anx_pr-es-001(03)yy_pp.html" class="internal-link" target="_self" rel="noopener">ANX_PR-ES-001(03)YY_PP</a> Cuadro de análisis del proceso PP del año YY.
+<br><a data-href="ANX_PR-ES-001(04)YY" href="\procesos\códigos\anexos\anx_pr-es-001(04)yy.html" class="internal-link" target="_self" rel="noopener">ANX_PR-ES-001(04)YY</a> Certificado de acuerdos de la Junta de Escuela que incluye la aprobación del Plan Anual de Calidad del año YY.
+<br><a data-href="ANX_PR-ES-001(05)YY" href="\procesos\códigos\anexos\anx_pr-es-001(05)yy.html" class="internal-link" target="_self" rel="noopener">ANX_PR-ES-001(05)YY</a> Plan Anual de Calidad del Centro del año YY.
+<br><a data-href="ANX_PR-ES-001(06)YY" href="\procesos\códigos\anexos\anx_pr-es-001(06)yy.html" class="internal-link" target="_self" rel="noopener">ANX_PR-ES-001(06)YY</a> Priorización de las acciones de mejoras incluidas en el Plan Anua de Calidad del año YY.
+<br><br>
+<br>Indicadores recopilados en la creación del PAC realizada a inicio de año:
+
+<br><a data-href="IND_PR-ES-001(01a)" href="\procesos\códigos\indicadores\ind_pr-es-001(01a).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(01a)</a> Número de acciones propuestas, desglosadas por origen y en total (creación).
+
+
+<br>Indicadores recopilados en el seguimiento intermedio del PAC realizado a mitad de año:
+
+<br><a data-href="IND_PR-ES-001(02a)" href="\procesos\códigos\indicadores\ind_pr-es-001(02a).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(02a)</a> Número de acciones propuestas, desglosadas por origen y en total (seguimiento intermedio).
+<br><a data-href="IND_PR-ES-001(02b)" href="\procesos\códigos\indicadores\ind_pr-es-001(02b).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(02b)</a> Número de acciones completadas, desglosadas por origen y en total (seguimiento intermedio).
+<br><a data-href="IND_PR-ES-001(02c)" href="\procesos\códigos\indicadores\ind_pr-es-001(02c).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(02c)</a> Número de acciones canceladas, desglosadas por origen y en total (seguimiento intermedio).
+<br><a data-href="IND_PR-ES-001(02d)" href="\procesos\códigos\indicadores\ind_pr-es-001(02d).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(02d)</a> Ratio de acciones de mejora del PAC completadas respecto a las propuestas (sin tener en cuenta las canceladas), desglosado por origen y en total (seguimiento intermedio).
+
+
+<br>Indicadores recopilados en el cierre del PAC realizado a final de año:
+
+<br><a data-href="IND_PR-ES-001(03a)" href="\procesos\códigos\indicadores\ind_pr-es-001(03a).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(03a)</a> Número de acciones propuestas, desglosadas por origen y en total (cierre). 
+<br><a data-href="IND_PR-ES-001(03b)" href="\procesos\códigos\indicadores\ind_pr-es-001(03b).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(03b)</a> Número de acciones completadas, desglosadas por origen y en total (cierre).
+<br><a data-href="IND_PR-ES-001(03c)" href="\procesos\códigos\indicadores\ind_pr-es-001(03c).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(03c)</a> Número de acciones canceladas, desglosadas por origen y en total (cierre).
+<br><a data-href="IND_PR-ES-001(03d)" href="\procesos\códigos\indicadores\ind_pr-es-001(03d).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(03d)</a> Número de acciones trasladadas, desglosadas por origen y en total (cierre).
+<br><a data-href="IND_PR-ES-001(03e)" href="\procesos\códigos\indicadores\ind_pr-es-001(03e).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(03e)</a> Ratio de acciones de mejora del PAC completadas respecto a las propuestas (sin tener en cuenta las canceladas), desglosado por origen y en total (seguimiento intermedio).
+<br><a data-href="IND_PR-ES-001(03f)" href="\procesos\códigos\indicadores\ind_pr-es-001(03f).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(03f)</a> Ratio de acciones de mejora del PAC trasladadas respecto a las propuestas (sin tener en cuenta las canceladas), desglosado por origen y en total (seguimiento intermedio).
+
+
+]]></description><link>procesos\estratégicos\pr-es-001.html</link><guid isPermaLink="false">Procesos/Estratégicos/PR-ES-001.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Thu, 25 Jul 2024 11:40:43 GMT</pubDate></item><item><title><![CDATA[PR-ES-002]]></title><description><![CDATA[ 
+ <br><br>
+<br><a data-href="SBPR-ES-002-01" href="\procesos\estratégicos\sbpr-es-002-01.html" class="internal-link" target="_self" rel="noopener">SBPR-ES-002-01</a> Diseño Titulaciones Oficiales
+<br><a data-href="SBPR-ES-002-02" href="\procesos\estratégicos\sbpr-es-002-02.html" class="internal-link" target="_self" rel="noopener">SBPR-ES-002-02</a> Verificación Titulaciones Oficiales
+<br><a data-href="SBPR-ES-002-03" href="\procesos\estratégicos\sbpr-es-002-03.html" class="internal-link" target="_self" rel="noopener">SBPR-ES-002-03</a> Modificación Titulaciones Oficiales
+<br><a data-href="SBPR-ES-002-04" href="\procesos\estratégicos\sbpr-es-002-04.html" class="internal-link" target="_self" rel="noopener">SBPR-ES-002-04</a> Extinción Titulaciones Oficiales
+<br><a data-href="SBPR-ES-002-05" href="\procesos\estratégicos\sbpr-es-002-05.html" class="internal-link" target="_self" rel="noopener">SBPR-ES-002-05</a> Renovación Acreditación Titulo
+<br><a data-href="SBPR-ES-002-06" href="\procesos\estratégicos\sbpr-es-002-06.html" class="internal-link" target="_self" rel="noopener">SBPR-ES-002-06</a> Seguimiento externo Titulaciones Oficiales
+<br><br>
+<br>Normativa estatal y/o autonómica vigente:
+
+<br><a data-tooltip-position="top" aria-label="https://www.boe.es/eli/es/lo/2023/03/22/2/con" rel="noopener" class="external-link" href="https://www.boe.es/eli/es/lo/2023/03/22/2/con" target="_blank">Ley Orgánica 2/2023</a>, de 22 de marzo, del Sistema Universitario.
+<br><a data-tooltip-position="top" aria-label="https://www.boe.es/eli/es/rd/2003/09/05/1125" rel="noopener" class="external-link" href="https://www.boe.es/eli/es/rd/2003/09/05/1125" target="_blank">Real Decreto 1125/2003</a>, de 5 de septiembre, por el que se establece el sistema europeo de créditos y el sistema de calificaciones en las titulaciones universitarias de carácter oficial y validez en todo el territorio nacional.
+<br><a data-tooltip-position="top" aria-label="https://www.boe.es/eli/es/rd/2021/09/28/822/con" rel="noopener" class="external-link" href="https://www.boe.es/eli/es/rd/2021/09/28/822/con" target="_blank">Real Decreto 822/2021</a>, de 28 de septiembre, por el que se establece la organización de las enseñanzas universitarias y del procedimiento de aseguramiento de su calidad.
+<br><a data-tooltip-position="top" aria-label="https://www.boe.es/eli/es/res/2021/04/06/(2)" rel="noopener" class="external-link" href="https://www.boe.es/eli/es/res/2021/04/06/(2)" target="_blank">Resolución de 6 de abril de 2021</a>, de la Secretaría General de Universidades, por la que se aprueban recomendaciones en relación con los criterios y estándares de evaluación para la verificación, modificación, seguimiento y renovación de la acreditación de títulos universitarios oficiales de Grado y de Máster ofertados en modalidades de enseñanzas virtuales e híbridas.
+<br><a data-tooltip-position="top" aria-label="https://www.boe.es/eli/es/rd/2011/01/28/99/con" rel="noopener" class="external-link" href="https://www.boe.es/eli/es/rd/2011/01/28/99/con" target="_blank">Real Decreto 99/2011</a>, de 28 de enero, por el que se regulan las enseñanzas oficiales de doctorado.
+<br><a data-tooltip-position="top" aria-label="https://www.bocm.es/bocm-20190717-24" rel="noopener" class="external-link" href="https://www.bocm.es/bocm-20190717-24" target="_blank">Orden 2123/2019</a>, de 8 de julio, de la Consejería de Educación e Investigación, por la que se establece el plazo de presentación de solicitudes para la implantación y extinción de enseñanzas universitarias oficiales en las universidades de la Comunidad de Madrid.
+<br><a data-href="REF_PR-ES-002(01)" href="\procesos\códigos\referencias\ref_pr-es-002(01).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-002(01)</a> Protocolo CURSA 020710 para el seguimiento y la renovación de la acreditación de los títulos universitarios oficiales.
+
+
+<br>Normativa UPM:
+
+<br><a data-tooltip-position="top" aria-label="https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Doctorado/normativa" rel="noopener" class="external-link" href="https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Doctorado/normativa" target="_blank">Normativa de doctorado de la UPM</a> vigente.
+<br><a data-href="REF_PR-ES-002(02)" href="\procesos\códigos\referencias\ref_pr-es-002(02).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-002(02)</a> Estatutos UPM vigentes.
+<br><a data-tooltip-position="top" aria-label="http://catedraunesco.es/me/UPM/Inicio.html" rel="noopener" class="external-link" href="http://catedraunesco.es/me/UPM/Inicio.html" target="_blank">Modelo Educativo de la UPM</a> vigente.
+<br><a data-href="REF_PR-ES-002(03)" href="\procesos\códigos\referencias\ref_pr-es-002(03).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-002(03)</a> Guía-chequeo interno de propuestas de nuevos planes de estudios UPM.
+
+
+<br>Documentación de agencias de calidad:
+
+<br><a data-href="REF_PR-ES-002(04)TT" href="\procesos\códigos\referencias\ref_pr-es-002(04)tt.html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-002(04)TT</a> Libro Blanco de ANECA del título TT.
+<br><a data-tooltip-position="top" aria-label="https://www.madrimasd.org/calidad-universitaria/evaluacion-acreditacion-verificacion-titulos-oficiales/verificacion-modificacion/normativa-documentacion-relacionada" rel="noopener" class="external-link" href="https://www.madrimasd.org/calidad-universitaria/evaluacion-acreditacion-verificacion-titulos-oficiales/verificacion-modificacion/normativa-documentacion-relacionada" target="_blank">Normativa y documentación de la Fundación para el Conocimiento madri+d relativa a la verificación y modificación de títulos</a>:
+
+<br>Calendario para la tramitación de solicitudes de verificación y modificación de títulos.
+<br>Guía para la verificación y modificación de los programas de doctorado.
+<br>Guía para la verificación y modificación de los títulos oficiales de grado y máster.
+<br>Procedimiento para la evaluación y solicitud de programas académicos con recorridos sucesivos en el ámbito de la ingeniería y arquitectura.
+
+
+
+
+<br>Memoria de título TT vigente:
+
+<br><a data-href="ANX_SBPR-ES-002-02(09)TT" href="\procesos\códigos\anexos\anx_sbpr-es-002-02(09)tt.html" class="internal-link" target="_self" rel="noopener">ANX_SBPR-ES-002-02(09)TT</a> Memoria verificada del título TT vigente, en su caso.
+<br><a data-href="ANX_SBPR-ES-002-03(06)TT" href="\procesos\códigos\anexos\anx_sbpr-es-002-03(06)tt.html" class="internal-link" target="_self" rel="noopener">ANX_SBPR-ES-002-03(06)TT</a> Memoria modificada del título TT vigente, en su caso.
+<br><a data-href="REF_PR-ES-002(05)" href="\procesos\códigos\referencias\ref_pr-es-002(05).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-002(05)</a> Informe final de Tuning - Educational Structures in Europe.
+
+
+<br><br>]]></description><link>procesos\estratégicos\pr-es-002.html</link><guid isPermaLink="false">Procesos/Estratégicos/PR-ES-002.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Thu, 25 Jul 2024 11:40:08 GMT</pubDate></item><item><title><![CDATA[Lista Procesos Soporte]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="PR-SO-001" href="\PR-SO-001" class="internal-link" target="_self" rel="noopener">PR-SO-001</a>
+<br><a data-href="PR-SO-002" href="\PR-SO-002" class="internal-link" target="_self" rel="noopener">PR-SO-002</a>
+<br><a data-href="PR-SO-003" href="\PR-SO-003" class="internal-link" target="_self" rel="noopener">PR-SO-003</a>
+<br><a data-href="PR-SO-004" href="\PR-SO-004" class="internal-link" target="_self" rel="noopener">PR-SO-004</a>
+<br><a data-href="PR-SO-005" href="\PR-SO-005" class="internal-link" target="_self" rel="noopener">PR-SO-005</a>
+<br><a data-href="PR-SO-006" href="\PR-SO-006" class="internal-link" target="_self" rel="noopener">PR-SO-006</a>
+<br><a data-href="PR-SO-007" href="\PR-SO-007" class="internal-link" target="_self" rel="noopener">PR-SO-007</a>
+<br><a data-href="PR-SO-008" href="\PR-SO-008" class="internal-link" target="_self" rel="noopener">PR-SO-008</a>
+<br><a data-href="PR-SO-009" href="\PR-SO-009" class="internal-link" target="_self" rel="noopener">PR-SO-009</a>
+]]></description><link>procesos\soporte\lista-procesos-soporte.html</link><guid isPermaLink="false">Procesos/Soporte/Lista Procesos Soporte.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Thu, 25 Jul 2024 11:44:28 GMT</pubDate></item><item><title><![CDATA[Home]]></title><description><![CDATA[ 
+ <br>Mapa de procesos Sistema de Aseguramiento Interno de Calidad (SAIC) de la ETSI Informáticos.<br>
+<br>
+<a data-href="Lista Procesos Estratégicos" href="\procesos\estratégicos\lista-procesos-estratégicos.html" class="internal-link" target="_self" rel="noopener">Lista Procesos Estratégicos</a> (PR-ES)
+
+<br>
+<a data-href="Lista Procesos Soporte" href="\procesos\soporte\lista-procesos-soporte.html" class="internal-link" target="_self" rel="noopener">Lista Procesos Soporte</a> (PR-SO)
+
+<br>
+<a data-href="Lista Procesos Clave" href="\procesos\clave\lista-procesos-clave.html" class="internal-link" target="_self" rel="noopener">Lista Procesos Clave</a> (PR-CL)
+
+<br>
+Procesos a revisar (Códigos en <a data-href="Cuarentena" href="\revisión\cuarentena.html" class="internal-link" target="_self" rel="noopener">Cuarentena</a>)
+
+]]></description><link>home.html</link><guid isPermaLink="false">Home.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Thu, 25 Jul 2024 11:43:11 GMT</pubDate></item><item><title><![CDATA[Documento]]></title><description><![CDATA[ 
  <br><br>
 <br>
 <br><br>
@@ -1380,103 +1532,7 @@
 <br>
 <br><br>
 <br>
-]]></description><link>procesos\códigos\referencias\ref_sbpr-es-002-05(02)tt.html</link><guid isPermaLink="false">Procesos/Códigos/Referencias/REF_SBPR-ES-002-05(02)TT.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Wed, 24 Jul 2024 19:15:37 GMT</pubDate></item><item><title><![CDATA[PR-ES-001]]></title><description><![CDATA[ 
- <br><br><br>
-<br><a data-href="REF_PR-ES-001(01)" href="\procesos\códigos\referencias\ref_pr-es-001(01).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(01)</a> Guía para la elaboración del PAC y sus herramientas.
-<br><a data-href="REF_PR-ES-001(02)" href="\procesos\códigos\referencias\ref_pr-es-001(02).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(02)</a> Plantilla del Plan Anual de Calidad.
-<br><a data-href="REF_PR-ES-001(03)" href="\procesos\códigos\referencias\ref_pr-es-001(03).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(03)</a> Plantilla del cuadro de análisis de estado del proceso.
-<br><a data-href="REF_PR-ES-001(04)" href="\procesos\códigos\referencias\ref_pr-es-001(04).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(04)</a> Plantilla del cuadro de mando integral.
-<br><a data-href="REF_PR-ES-001(05)" href="\procesos\códigos\referencias\ref_pr-es-001(05).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(05)</a> Plantilla de ficha del indicador.
-<br><a data-href="REF_PR-ES-008(03)" href="\procesos\códigos\referencias\ref_pr-es-008(03).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-008(03)</a> Manual de Calidad vigente.
-<br><a data-href="Evidencias e indicadores recogidos en los procesos del SAIC" href="\procesos\códigos\otros\evidencias-e-indicadores-recogidos-en-los-procesos-del-saic.html" class="internal-link" target="_self" rel="noopener">Evidencias e indicadores recogidos en los procesos del SAIC</a>.
-<br><a data-href="REF_PR-ES-001(06)" href="\procesos\códigos\referencias\ref_pr-es-001(06).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(06)</a> Plan Estratégico del Centro vigente.
-<br><a data-href="ANX_PR-ES-001(06)YY-1" href="\procesos\códigos\anexos\anx_pr-es-001(06)yy-1.html" class="internal-link" target="_self" rel="noopener">ANX_PR-ES-001(06)YY-1</a> Plan Anual de Calidad del año anterior al actual YY.
-<br><a data-href="REF_PR-ES-001(07a)" href="\procesos\códigos\referencias\ref_pr-es-001(07a).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(07a)</a> Informe definitivo vigente de acreditación del sistema de calidad (SISCAL).
-<br><a data-href="REF_PR-ES-001(07b)" href="\procesos\códigos\referencias\ref_pr-es-001(07b).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(07b)</a> Informe definitivo vigente acreditación institucional.
-<br><a data-href="REF_PR-ES-001(07c)TT" href="\procesos\códigos\referencias\ref_pr-es-001(07c)tt.html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(07c)TT</a> Informe definitivo vigente de verificación del título TT.
-<br><a data-href="REF_PR-ES-001(07d)TT" href="\procesos\códigos\referencias\ref_pr-es-001(07d)tt.html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(07d)TT</a> Informe definitivo vigente del sello de calidad EUROINF del título TT.
-<br><a data-href="REF_PR-ES-001(07e)TT" href="\procesos\códigos\referencias\ref_pr-es-001(07e)tt.html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-001(07e)TT</a> Informe definitivo vigente del sello de calidad ABET del título TT.
-<br><a data-href="ANX_PR-ES-009(02)YY" href="\procesos\códigos\anexos\anx_pr-es-009(02)yy.html" class="internal-link" target="_self" rel="noopener">ANX_PR-ES-009(02)YY</a> Informe de auditoría interna por parte de la unidad de calidad de Rectorado UPM al informe de seguimiento de la implantación del SAIC en el año YY .
-<br><br>
-<br><a data-href="ANX_PR-ES-001(01)YY_II" href="\procesos\códigos\anexos\anx_pr-es-001(01)yy_ii.html" class="internal-link" target="_self" rel="noopener">ANX_PR-ES-001(01)YY_II</a> Ficha rellenada del indicador II en el año YY.
-<br><a data-href="ANX_PR-ES-001(02)YY" href="\procesos\códigos\anexos\anx_pr-es-001(02)yy.html" class="internal-link" target="_self" rel="noopener">ANX_PR-ES-001(02)YY</a> Cuadro de mando integral del año YY.
-<br><a data-href="ANX_PR-ES-001(03)YY_PP" href="\procesos\códigos\anexos\anx_pr-es-001(03)yy_pp.html" class="internal-link" target="_self" rel="noopener">ANX_PR-ES-001(03)YY_PP</a> Cuadro de análisis del proceso PP del año YY.
-<br><a data-href="ANX_PR-ES-001(04)YY" href="\procesos\códigos\anexos\anx_pr-es-001(04)yy.html" class="internal-link" target="_self" rel="noopener">ANX_PR-ES-001(04)YY</a> Certificado de acuerdos de la Junta de Escuela que incluye la aprobación del Plan Anual de Calidad del año YY.
-<br><a data-href="ANX_PR-ES-001(05)YY" href="\procesos\códigos\anexos\anx_pr-es-001(05)yy.html" class="internal-link" target="_self" rel="noopener">ANX_PR-ES-001(05)YY</a> Plan Anual de Calidad del Centro del año YY.
-<br><a data-href="ANX_PR-ES-001(06)YY" href="\procesos\códigos\anexos\anx_pr-es-001(06)yy.html" class="internal-link" target="_self" rel="noopener">ANX_PR-ES-001(06)YY</a> Priorización de las acciones de mejoras incluidas en el Plan Anua de Calidad del año YY.
-<br><br>
-<br>Indicadores recopilados en la creación del PAC realizada a inicio de año:
-
-<br><a data-href="IND_PR-ES-001(01a)" href="\procesos\códigos\indicadores\ind_pr-es-001(01a).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(01a)</a> Número de acciones propuestas, desglosadas por origen y en total (creación).
-
-
-<br>Indicadores recopilados en el seguimiento intermedio del PAC realizado a mitad de año:
-
-<br><a data-href="IND_PR-ES-001(02a)" href="\procesos\códigos\indicadores\ind_pr-es-001(02a).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(02a)</a> Número de acciones propuestas, desglosadas por origen y en total (seguimiento intermedio).
-<br><a data-href="IND_PR-ES-001(02b)" href="\procesos\códigos\indicadores\ind_pr-es-001(02b).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(02b)</a> Número de acciones completadas, desglosadas por origen y en total (seguimiento intermedio).
-<br><a data-href="IND_PR-ES-001(02c)" href="\procesos\códigos\indicadores\ind_pr-es-001(02c).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(02c)</a> Número de acciones canceladas, desglosadas por origen y en total (seguimiento intermedio).
-<br><a data-href="IND_PR-ES-001(02d)" href="\procesos\códigos\indicadores\ind_pr-es-001(02d).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(02d)</a> Ratio de acciones de mejora del PAC completadas respecto a las propuestas (sin tener en cuenta las canceladas), desglosado por origen y en total (seguimiento intermedio).
-
-
-<br>Indicadores recopilados en el cierre del PAC realizado a final de año:
-
-<br><a data-href="IND_PR-ES-001(03a)" href="\procesos\códigos\indicadores\ind_pr-es-001(03a).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(03a)</a> Número de acciones propuestas, desglosadas por origen y en total (cierre). 
-<br><a data-href="IND_PR-ES-001(03b)" href="\procesos\códigos\indicadores\ind_pr-es-001(03b).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(03b)</a> Número de acciones completadas, desglosadas por origen y en total (cierre).
-<br><a data-href="IND_PR-ES-001(03c)" href="\procesos\códigos\indicadores\ind_pr-es-001(03c).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(03c)</a> Número de acciones canceladas, desglosadas por origen y en total (cierre).
-<br><a data-href="IND_PR-ES-001(03d)" href="\procesos\códigos\indicadores\ind_pr-es-001(03d).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(03d)</a> Número de acciones trasladadas, desglosadas por origen y en total (cierre).
-<br><a data-href="IND_PR-ES-001(03e)" href="\procesos\códigos\indicadores\ind_pr-es-001(03e).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(03e)</a> Ratio de acciones de mejora del PAC completadas respecto a las propuestas (sin tener en cuenta las canceladas), desglosado por origen y en total (seguimiento intermedio).
-<br><a data-href="IND_PR-ES-001(03f)" href="\procesos\códigos\indicadores\ind_pr-es-001(03f).html" class="internal-link" target="_self" rel="noopener">IND_PR-ES-001(03f)</a> Ratio de acciones de mejora del PAC trasladadas respecto a las propuestas (sin tener en cuenta las canceladas), desglosado por origen y en total (seguimiento intermedio).
-
-
-]]></description><link>procesos\estratégicos\pr-es-001.html</link><guid isPermaLink="false">Procesos/Estratégicos/PR-ES-001.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Wed, 24 Jul 2024 17:51:02 GMT</pubDate></item><item><title><![CDATA[PR-ES-002]]></title><description><![CDATA[ 
- <br><br>
-<br><a data-href="SBPR-ES-002-01" href="\procesos\estratégicos\sbpr-es-002-01.html" class="internal-link" target="_self" rel="noopener">SBPR-ES-002-01</a>
-<br><a data-href="SBPR-ES-002-02" href="\procesos\estratégicos\sbpr-es-002-02.html" class="internal-link" target="_self" rel="noopener">SBPR-ES-002-02</a>
-<br><a data-href="SBPR-ES-002-03" href="\procesos\estratégicos\sbpr-es-002-03.html" class="internal-link" target="_self" rel="noopener">SBPR-ES-002-03</a>
-<br><a data-href="SBPR-ES-002-04" href="\procesos\estratégicos\sbpr-es-002-04.html" class="internal-link" target="_self" rel="noopener">SBPR-ES-002-04</a>
-<br><a data-href="SBPR-ES-002-05" href="\procesos\estratégicos\sbpr-es-002-05.html" class="internal-link" target="_self" rel="noopener">SBPR-ES-002-05</a>
-<br><a data-href="SBPR-ES-002-06" href="\procesos\estratégicos\sbpr-es-002-06.html" class="internal-link" target="_self" rel="noopener">SBPR-ES-002-06</a>
-<br><br>
-<br>Normativa estatal y/o autonómica vigente:
-
-<br><a data-tooltip-position="top" aria-label="https://www.boe.es/eli/es/lo/2023/03/22/2/con" rel="noopener" class="external-link" href="https://www.boe.es/eli/es/lo/2023/03/22/2/con" target="_blank">Ley Orgánica 2/2023</a>, de 22 de marzo, del Sistema Universitario.
-<br><a data-tooltip-position="top" aria-label="https://www.boe.es/eli/es/rd/2003/09/05/1125" rel="noopener" class="external-link" href="https://www.boe.es/eli/es/rd/2003/09/05/1125" target="_blank">Real Decreto 1125/2003</a>, de 5 de septiembre, por el que se establece el sistema europeo de créditos y el sistema de calificaciones en las titulaciones universitarias de carácter oficial y validez en todo el territorio nacional.
-<br><a data-tooltip-position="top" aria-label="https://www.boe.es/eli/es/rd/2021/09/28/822/con" rel="noopener" class="external-link" href="https://www.boe.es/eli/es/rd/2021/09/28/822/con" target="_blank">Real Decreto 822/2021</a>, de 28 de septiembre, por el que se establece la organización de las enseñanzas universitarias y del procedimiento de aseguramiento de su calidad.
-<br><a data-tooltip-position="top" aria-label="https://www.boe.es/eli/es/res/2021/04/06/(2)" rel="noopener" class="external-link" href="https://www.boe.es/eli/es/res/2021/04/06/(2)" target="_blank">Resolución de 6 de abril de 2021</a>, de la Secretaría General de Universidades, por la que se aprueban recomendaciones en relación con los criterios y estándares de evaluación para la verificación, modificación, seguimiento y renovación de la acreditación de títulos universitarios oficiales de Grado y de Máster ofertados en modalidades de enseñanzas virtuales e híbridas.
-<br><a data-tooltip-position="top" aria-label="https://www.boe.es/eli/es/rd/2011/01/28/99/con" rel="noopener" class="external-link" href="https://www.boe.es/eli/es/rd/2011/01/28/99/con" target="_blank">Real Decreto 99/2011</a>, de 28 de enero, por el que se regulan las enseñanzas oficiales de doctorado.
-<br><a data-tooltip-position="top" aria-label="https://www.bocm.es/bocm-20190717-24" rel="noopener" class="external-link" href="https://www.bocm.es/bocm-20190717-24" target="_blank">Orden 2123/2019</a>, de 8 de julio, de la Consejería de Educación e Investigación, por la que se establece el plazo de presentación de solicitudes para la implantación y extinción de enseñanzas universitarias oficiales en las universidades de la Comunidad de Madrid.
-<br><a data-href="REF_PR-ES-002(01)" href="\procesos\códigos\referencias\ref_pr-es-002(01).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-002(01)</a> Protocolo CURSA 020710 para el seguimiento y la renovación de la acreditación de los títulos universitarios oficiales.
-
-
-<br>Normativa UPM:
-
-<br><a data-tooltip-position="top" aria-label="https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Doctorado/normativa" rel="noopener" class="external-link" href="https://www.upm.es/Estudiantes/Estudios_Titulaciones/Estudios_Doctorado/normativa" target="_blank">Normativa de doctorado de la UPM</a> vigente.
-<br><a data-href="REF_PR-ES-002(02)" href="\procesos\códigos\referencias\ref_pr-es-002(02).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-002(02)</a> Estatutos UPM vigentes.
-<br><a data-tooltip-position="top" aria-label="http://catedraunesco.es/me/UPM/Inicio.html" rel="noopener" class="external-link" href="http://catedraunesco.es/me/UPM/Inicio.html" target="_blank">Modelo Educativo de la UPM</a> vigente.
-<br><a data-href="REF_PR-ES-002(03)" href="\procesos\códigos\referencias\ref_pr-es-002(03).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-002(03)</a> Guía-chequeo interno de propuestas de nuevos planes de estudios UPM.
-
-
-<br>Documentación de agencias de calidad:
-
-<br><a data-href="REF_PR-ES-002(04)TT" href="\procesos\códigos\referencias\ref_pr-es-002(04)tt.html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-002(04)TT</a> Libro Blanco de ANECA del título TT.
-<br><a data-tooltip-position="top" aria-label="https://www.madrimasd.org/calidad-universitaria/evaluacion-acreditacion-verificacion-titulos-oficiales/verificacion-modificacion/normativa-documentacion-relacionada" rel="noopener" class="external-link" href="https://www.madrimasd.org/calidad-universitaria/evaluacion-acreditacion-verificacion-titulos-oficiales/verificacion-modificacion/normativa-documentacion-relacionada" target="_blank">Normativa y documentación de la Fundación para el Conocimiento madri+d relativa a la verificación y modificación de títulos</a>:
-
-<br>Calendario para la tramitación de solicitudes de verificación y modificación de títulos.
-<br>Guía para la verificación y modificación de los programas de doctorado.
-<br>Guía para la verificación y modificación de los títulos oficiales de grado y máster.
-<br>Procedimiento para la evaluación y solicitud de programas académicos con recorridos sucesivos en el ámbito de la ingeniería y arquitectura.
-
-
-
-
-<br>Memoria de título TT vigente:
-
-<br><a data-href="ANX_SBPR-ES-002-02(09)TT" href="\procesos\códigos\anexos\anx_sbpr-es-002-02(09)tt.html" class="internal-link" target="_self" rel="noopener">ANX_SBPR-ES-002-02(09)TT</a> Memoria verificada del título TT vigente, en su caso.
-<br><a data-href="ANX_SBPR-ES-002-03(06)TT" href="\procesos\códigos\anexos\anx_sbpr-es-002-03(06)tt.html" class="internal-link" target="_self" rel="noopener">ANX_SBPR-ES-002-03(06)TT</a> Memoria modificada del título TT vigente, en su caso.
-<br><a data-href="REF_PR-ES-002(05)" href="\procesos\códigos\referencias\ref_pr-es-002(05).html" class="internal-link" target="_self" rel="noopener">REF_PR-ES-002(05)</a> Informe final de Tuning - Educational Structures in Europe.
-
-
-<br><br>]]></description><link>procesos\estratégicos\pr-es-002.html</link><guid isPermaLink="false">Procesos/Estratégicos/PR-ES-002.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Wed, 24 Jul 2024 18:05:17 GMT</pubDate></item><item><title><![CDATA[PR-ES-003]]></title><description><![CDATA[ 
+]]></description><link>procesos\códigos\referencias\ref_sbpr-es-002-05(02)tt.html</link><guid isPermaLink="false">Procesos/Códigos/Referencias/REF_SBPR-ES-002-05(02)TT.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Wed, 24 Jul 2024 19:15:37 GMT</pubDate></item><item><title><![CDATA[PR-ES-003]]></title><description><![CDATA[ 
  <br><br><br>
 <br>Normativa estatal y/o autonómica:
 
