@@ -1,0 +1,1799 @@
+{
+  "vaultName": "SAIC 2.2",
+  "lastExport": 1721904929203,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Plantillas/Documento.md",
+    "Plantillas/Proceso.md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-001(01)YY_II.md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-001(02)YY.md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-001(03)YY_PP.md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-001(04)YY.md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-001(05)YY.md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-001(06)YY.md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-001(06)YY-1.md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-003(01)YY-ZZ_TT_AA.md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-003(02)YY-ZZ_TT_SS.md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-003(03)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-003(04)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-004(01).md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-004(02)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-007(01)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-008(01).md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-008(02).md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-009(01)YY.md",
+    "Procesos/Códigos/Anexos/ANX_PR-ES-009(02)YY.md",
+    "Procesos/Códigos/Anexos/ANX_PR-SO-009(02a).md",
+    "Procesos/Códigos/Anexos/ANX_PR-SO-009(02b)PP.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(01)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(02)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(03)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(04)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(05)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(06)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(07)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(01)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(02)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(03)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(04)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(05)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(06)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(07)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(08)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(09)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(01)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(02)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(03)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(04)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(05)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(06)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(07)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(08)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(09)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(10)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(11)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(12)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-04(01)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-04(02)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-04(03)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(01)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(02)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(03)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(04)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(05)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(06)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(07)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(08)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(09)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(10)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(11)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(12)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-06(01)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-06(02)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-06(03)TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-06(04)TT.md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(01a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(02a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(02b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(02c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(02d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(03a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(03b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(03c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(03d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(03e).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(03f).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(01a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(01b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(01c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(01d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(01e).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(01f).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(01g).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02e).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02f).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02g).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02h).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02i).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02j).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02k).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02l).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(03a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(03b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(03c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(04a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(05a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(05b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(05c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(06a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(06b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(06c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(06d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01e).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01f).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01g).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01h).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01i).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(02a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(02b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(02c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(02d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(03a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(03b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04e).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04f).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04g).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04h).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04i).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04j).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(05a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(05b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(05c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(05d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(06a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(07a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(07b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(07c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(07d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(07e).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(07f).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(08a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(08b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(08c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(08d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(01a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(01b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(01c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(01d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(01e).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(01f).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(01g).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(02a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(02b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(02c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(03a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(03b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(03c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(04a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(04b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-008(01).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-008(02).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-008(03).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-008(04).md",
+    "Procesos/Códigos/Indicadores/IND_PR-ES-008(05).md",
+    "Procesos/Códigos/Otros/Evidencias e indicadores recogidos en los procesos del SAIC.md",
+    "Procesos/Códigos/Otros/Indicadores y evidencias de los procesos del SAIC relacionas con programas de doctorado.md",
+    "Procesos/Códigos/Otros/Tasas de rendimiento académico de cada asignatura, semestre y título.md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(01).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(02).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(03).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(04).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(05).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(06).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(07a).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(07b).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(07c)TT.md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(07d)TT.md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(07e)TT.md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-002(01).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-002(02).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-002(03).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-002(04)TT.md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-002(05).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-003(01).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-004(01).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-004(02).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-007(01a).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-007(02)YY-ZZ_TT.md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-007(02a)YY-ZZ_TT.md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-007(02b)YY-ZZ_TT.md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-007(03)YY-ZZ_TT.md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-008(03).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-009(01).md",
+    "Procesos/Códigos/Referencias/REF_SBPR-ES-002-01(01).md",
+    "Procesos/Códigos/Referencias/REF_SBPR-ES-002-01(02)TT.md",
+    "Procesos/Códigos/Referencias/REF_SBPR-ES-002-01(03)TT.md",
+    "Procesos/Códigos/Referencias/REF_SBPR-ES-002-01(04)TT.md",
+    "Procesos/Códigos/Referencias/REF_SBPR-ES-002-03(01).md",
+    "Procesos/Códigos/Referencias/REF_SBPR-ES-002-03(02).md",
+    "Procesos/Códigos/Referencias/REF_SBPR-ES-002-05(01)TT.md",
+    "Procesos/Códigos/Referencias/REF_SBPR-ES-002-05(02)TT.md",
+    "Procesos/Estratégicos/PR-ES-001.md",
+    "Procesos/Estratégicos/PR-ES-002.md",
+    "Procesos/Estratégicos/PR-ES-003.md",
+    "Procesos/Estratégicos/PR-ES-004.md",
+    "Procesos/Estratégicos/PR-ES-005.md",
+    "Procesos/Estratégicos/PR-ES-006.md",
+    "Procesos/Estratégicos/PR-ES-007.md",
+    "Procesos/Estratégicos/PR-ES-008.md",
+    "Procesos/Estratégicos/PR-ES-009.md",
+    "Procesos/Estratégicos/SBPR-ES-002-01.md",
+    "Procesos/Estratégicos/SBPR-ES-002-02.md",
+    "Procesos/Estratégicos/SBPR-ES-002-03.md",
+    "Procesos/Estratégicos/SBPR-ES-002-04.md",
+    "Procesos/Estratégicos/SBPR-ES-002-05.md",
+    "Procesos/Estratégicos/SBPR-ES-002-06.md",
+    "Revisión/Cuarentena.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Plantillas/Documento.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 72,
+      "exportedPath": "plantillas/documento.html",
+      "dependencies": []
+    },
+    "Plantillas/Proceso.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 114,
+      "exportedPath": "plantillas/proceso.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-001(01)YY_II.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 116,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-001(01)yy_ii.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-001(02)YY.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 106,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-001(02)yy.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-001(03)YY_PP.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 116,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-001(03)yy_pp.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-001(04)YY.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 180,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-001(04)yy.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-001(05)YY.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 117,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-001(05)yy.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-001(06)YY.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 162,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-001(06)yy.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-001(06)YY-1.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 121,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-001(06)yy-1.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-003(01)YY-ZZ_TT_AA.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 155,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-003(01)yy-zz_tt_aa.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-003(02)YY-ZZ_TT_SS.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 151,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-003(02)yy-zz_tt_ss.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-003(03)YY-ZZ_TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 135,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-003(03)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-003(04)YY-ZZ_TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 197,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-003(04)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-004(01).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 109,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-004(01).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-004(02)YY-ZZ_TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 142,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-004(02)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-007(01)YY-ZZ_TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 153,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-007(01)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-008(01).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 181,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-008(01).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-008(02).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 164,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-008(02).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-009(01)YY.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 138,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-009(01)yy.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-ES-009(02)YY.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 384,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-es-009(02)yy.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-SO-009(02a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 106,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-so-009(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-SO-009(02b)PP.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 120,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-so-009(02b)pp.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(01)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 104,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-01(01)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(02)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 174,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-01(02)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(03)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 213,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-01(03)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(04)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 173,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-01(04)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(05)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 184,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-01(05)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(06)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 176,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-01(06)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(07)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 193,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-01(07)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(01)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 176,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-02(01)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(02)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 163,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-02(02)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(03)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 158,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-02(03)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(04)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 162,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-02(04)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(05)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 135,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-02(05)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(06)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 202,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-02(06)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(07)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 186,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-02(07)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(08)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 173,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-02(08)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-02(09)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 321,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-02(09)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(01)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 338,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-03(01)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(02)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 176,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-03(02)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(03)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 156,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-03(03)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(04)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 149,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-03(04)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(05)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 153,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-03(05)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(06)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 321,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-03(06)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(07)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 209,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-03(07)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(08)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 197,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-03(08)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(09)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 181,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-03(09)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(10)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 161,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-03(10)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(11)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 169,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-03(11)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-03(12)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 160,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-03(12)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-04(01)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 143,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-04(01)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-04(02)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 158,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-04(02)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-04(03)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 159,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-04(03)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(01)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 159,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-05(01)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(02)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 218,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-05(02)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(03)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 173,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-05(03)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(04)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 167,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-05(04)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(05)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 191,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-05(05)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(06)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 184,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-05(06)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(07)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 178,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-05(07)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(08)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 169,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-05(08)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(09)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 183,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-05(09)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(10)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 212,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-05(10)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(11)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 262,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-05(11)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-05(12)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 176,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-05(12)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-06(01)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 134,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-06(01)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-06(02)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 127,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-06(02)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-06(03)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 142,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-06(03)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-06(04)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 121,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-es-002-06(04)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(01a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 150,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-001(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(02a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 163,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-001(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(02b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 163,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-001(02b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(02c).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 163,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-001(02c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(02d).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 242,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-001(02d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(03a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 147,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-001(03a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(03b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 148,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-001(03b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(03c).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 147,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-001(03c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(03d).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 148,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-001(03d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(03e).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 242,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-001(03e).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-001(03f).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 242,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-001(03f).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(01a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 165,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(01b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 157,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(01b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(01c).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 92,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(01c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(01d).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 114,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(01d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(01e).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 87,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(01e).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(01f).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 91,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(01f).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(01g).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 145,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(01g).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 104,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 106,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(02b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02c).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 101,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(02c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02d).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 101,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(02d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02e).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 110,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(02e).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02f).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 99,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(02f).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02g).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 120,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(02g).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02h).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 103,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(02h).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02i).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 104,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(02i).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02j).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 114,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(02j).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02k).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 109,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(02k).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(02l).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 113,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(02l).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(03a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 194,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(03a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(03b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 211,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(03b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(03c).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 206,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(03c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(04a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 195,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(04a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(05a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 156,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(05a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(05b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 151,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(05b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(05c).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 155,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(05c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(06a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 125,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(06a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(06b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 144,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(06b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(06c).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 138,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(06c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-003(06d).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 127,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-003(06d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 223,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 251,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(01b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01c).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 231,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(01c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01d).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 229,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(01d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01e).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 243,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(01e).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01f).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 235,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(01f).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01g).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 317,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(01g).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01h).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 247,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(01h).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(01i).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 252,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(01i).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(02a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 228,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(02b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 227,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(02b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(02c).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 248,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(02c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(02d).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 240,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(02d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(03a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 235,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(03a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(03b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 239,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(03b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 225,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(04a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 253,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(04b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04c).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 233,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(04c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04d).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 239,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(04d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04e).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 224,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(04e).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04f).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 245,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(04f).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04g).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 237,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(04g).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04h).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 319,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(04h).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04i).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 249,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(04i).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(04j).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 254,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(04j).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(05a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 230,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(05a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(05b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 229,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(05b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(05c).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 250,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(05c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(05d).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 242,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(05d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(06a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 241,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(06a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(07a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 224,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(07a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(07b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 252,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(07b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(07c).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 237,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(07c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(07d).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 209,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(07d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(07e).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 264,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(07e).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(07f).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 239,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(07f).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(08a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 246,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(08a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(08b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 245,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(08b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(08c).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 252,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(08c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-004(08d).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 244,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-004(08d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(01a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 156,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-007(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(01b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 146,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-007(01b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(01c).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 153,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-007(01c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(01d).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 186,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-007(01d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(01e).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 145,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-007(01e).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(01f).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 162,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-007(01f).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(01g).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 144,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-007(01g).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(02a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 136,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-007(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(02b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 146,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-007(02b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(02c).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 140,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-007(02c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(03a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 119,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-007(03a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(03b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 125,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-007(03b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(03c).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 124,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-007(03c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(04a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 122,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-007(04a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-007(04b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 149,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-007(04b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-008(01).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 150,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-008(01).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-008(02).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 150,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-008(02).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-008(03).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 143,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-008(03).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-008(04).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 150,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-008(04).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-ES-008(05).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 119,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-es-008(05).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Otros/Evidencias e indicadores recogidos en los procesos del SAIC.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 127,
+      "exportedPath": "procesos/códigos/otros/evidencias-e-indicadores-recogidos-en-los-procesos-del-saic.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Otros/Indicadores y evidencias de los procesos del SAIC relacionas con programas de doctorado.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 160,
+      "exportedPath": "procesos/códigos/otros/indicadores-y-evidencias-de-los-procesos-del-saic-relacionas-con-programas-de-doctorado.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Otros/Tasas de rendimiento académico de cada asignatura, semestre y título.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 187,
+      "exportedPath": "procesos/códigos/otros/tasas-de-rendimiento-académico-de-cada-asignatura,-semestre-y-título.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(01).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 122,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-001(01).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(02).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 104,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-001(02).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(03).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 124,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-001(03).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(04).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 107,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-001(04).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(05).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 101,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-001(05).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(06).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 105,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-001(06).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(07a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 144,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-001(07a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(07b).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 123,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-001(07b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(07c)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 127,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-001(07c)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(07d)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 139,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-001(07d)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-001(07e)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 136,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-001(07e)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-002(01).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 193,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-002(01).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-002(02).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 95,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-002(02).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-002(03).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 142,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-002(03).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-002(04)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 109,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-002(04)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-002(05).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 131,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-002(05).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-003(01).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 153,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-003(01).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-004(01).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 122,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-004(01).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-004(02).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 125,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-004(02).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-007(01a).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 133,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-007(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-007(02)YY-ZZ_TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 249,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-007(02)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-007(02a)YY-ZZ_TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 353,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-007(02a)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-007(02b)YY-ZZ_TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 210,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-007(02b)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-007(03)YY-ZZ_TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 215,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-007(03)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-008(03).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 94,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-008(03).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-009(01).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 155,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-009(01).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_SBPR-ES-002-01(01).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 134,
+      "exportedPath": "procesos/códigos/referencias/ref_sbpr-es-002-01(01).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_SBPR-ES-002-01(02)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 171,
+      "exportedPath": "procesos/códigos/referencias/ref_sbpr-es-002-01(02)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_SBPR-ES-002-01(03)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 127,
+      "exportedPath": "procesos/códigos/referencias/ref_sbpr-es-002-01(03)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_SBPR-ES-002-01(04)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 145,
+      "exportedPath": "procesos/códigos/referencias/ref_sbpr-es-002-01(04)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_SBPR-ES-002-03(01).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 143,
+      "exportedPath": "procesos/códigos/referencias/ref_sbpr-es-002-03(01).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_SBPR-ES-002-03(02).md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 175,
+      "exportedPath": "procesos/códigos/referencias/ref_sbpr-es-002-03(02).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_SBPR-ES-002-05(01)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 171,
+      "exportedPath": "procesos/códigos/referencias/ref_sbpr-es-002-05(01)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_SBPR-ES-002-05(02)TT.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 198,
+      "exportedPath": "procesos/códigos/referencias/ref_sbpr-es-002-05(02)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Estratégicos/PR-ES-001.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 3764,
+      "exportedPath": "procesos/estratégicos/pr-es-001.html",
+      "dependencies": []
+    },
+    "Procesos/Estratégicos/PR-ES-002.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 3529,
+      "exportedPath": "procesos/estratégicos/pr-es-002.html",
+      "dependencies": []
+    },
+    "Procesos/Estratégicos/PR-ES-003.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 5077,
+      "exportedPath": "procesos/estratégicos/pr-es-003.html",
+      "dependencies": []
+    },
+    "Procesos/Estratégicos/PR-ES-004.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 11546,
+      "exportedPath": "procesos/estratégicos/pr-es-004.html",
+      "dependencies": []
+    },
+    "Procesos/Estratégicos/PR-ES-005.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 115,
+      "exportedPath": "procesos/estratégicos/pr-es-005.html",
+      "dependencies": []
+    },
+    "Procesos/Estratégicos/PR-ES-006.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 111,
+      "exportedPath": "procesos/estratégicos/pr-es-006.html",
+      "dependencies": []
+    },
+    "Procesos/Estratégicos/PR-ES-007.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 4199,
+      "exportedPath": "procesos/estratégicos/pr-es-007.html",
+      "dependencies": []
+    },
+    "Procesos/Estratégicos/PR-ES-008.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 2095,
+      "exportedPath": "procesos/estratégicos/pr-es-008.html",
+      "dependencies": []
+    },
+    "Procesos/Estratégicos/PR-ES-009.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 741,
+      "exportedPath": "procesos/estratégicos/pr-es-009.html",
+      "dependencies": []
+    },
+    "Procesos/Estratégicos/SBPR-ES-002-01.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 2118,
+      "exportedPath": "procesos/estratégicos/sbpr-es-002-01.html",
+      "dependencies": []
+    },
+    "Procesos/Estratégicos/SBPR-ES-002-02.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 1449,
+      "exportedPath": "procesos/estratégicos/sbpr-es-002-02.html",
+      "dependencies": []
+    },
+    "Procesos/Estratégicos/SBPR-ES-002-03.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 2164,
+      "exportedPath": "procesos/estratégicos/sbpr-es-002-03.html",
+      "dependencies": []
+    },
+    "Procesos/Estratégicos/SBPR-ES-002-04.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 588,
+      "exportedPath": "procesos/estratégicos/sbpr-es-002-04.html",
+      "dependencies": []
+    },
+    "Procesos/Estratégicos/SBPR-ES-002-05.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 2349,
+      "exportedPath": "procesos/estratégicos/sbpr-es-002-05.html",
+      "dependencies": []
+    },
+    "Procesos/Estratégicos/SBPR-ES-002-06.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 652,
+      "exportedPath": "procesos/estratégicos/sbpr-es-002-06.html",
+      "dependencies": []
+    },
+    "Revisión/Cuarentena.md": {
+      "modifiedTime": 1721904618554,
+      "sourceSize": 230,
+      "exportedPath": "revisión/cuarentena.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 86351,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 24805,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 130208,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1721904929203,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
