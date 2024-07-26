@@ -1,20 +1,113 @@
 {
   "vaultName": "SAIC 2.2",
-  "lastExport": 1721991021239,
+  "lastExport": 1722012980380,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "Plantillas/Documento.md",
+    "Plantillas/Dato.md",
     "Plantillas/Proceso.md",
-    "Procesos/Clave/Lista Procesos Clave.md",
-    "Procesos/Clave/PR-CL-007.md",
-    "Procesos/Clave/PR-CL-008.md",
-    "Procesos/Clave/PR-CL-010.md",
-    "Procesos/Clave/PR-CL-015.md",
-    "Procesos/Clave/PR-CL-016.md",
-    "Procesos/Clave/PR-CL-017.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(01a)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(01b)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(01c)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(01d)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(01e)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02a)YY-ZZ_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02b)YY-ZZ_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02c)YY-ZZ_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02d)YY-ZZ_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02e)YY-ZZ_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02f)YY-ZZ_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02g)YY-ZZ_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02h)YY-ZZ_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02i)YY-ZZ_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02j)YY-ZZ_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02k)YY-ZZ_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02l)YY-ZZ_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(01)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(02)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(03)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(04)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(05)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(06)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(07)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(08)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(09)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(10)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-005(01)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-005(02)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-005(03)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-005(04)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-005(05)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-005(06)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-005(07)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-005(08)YY-ZZ_MM.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-006(01a)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-006(01b)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-006(01b)YY-ZZ-1.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-006(01c)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-006(01d)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-006(01d)YY-ZZ-1.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-006(02a)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(01a)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(01b)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(01c)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(01d)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02a)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02b)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02c)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02d)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02e)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02f)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02g)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02h)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02i)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-011(01)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-011(02)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-011(03)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-011(04)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-011(05)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-012(01)EE_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-012(02)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-012(03)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-012(04)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-012(05)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-012(06)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-012(07)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-013(01)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-013(02)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(01a)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(01b)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(01c)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(01d)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(01e)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(01f)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(02a)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(02b)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(03a)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(03b)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(03c)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(03d)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(03e)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(03f)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(04a)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(04b)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(04c)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(04d)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(04e)YY-ZZ_TT_EE.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-017(03)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-018(01)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-018(02)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-018(03)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-018(04)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-018(05)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-019(01a)YY-ZZ_TT_XX.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-019(01b)YY-ZZ_TT_XX.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-019(01c)YY-ZZ_TT_XX.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-019(02a)YY-ZZ_XX.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-019(02b)YY-ZZ_XX.md",
+    "Procesos/Códigos/Anexos/ANX_PR-CL-019(02c)YY-ZZ_XX.md",
     "Procesos/Códigos/Anexos/ANX_PR-ES-001(01)YY_II.md",
     "Procesos/Códigos/Anexos/ANX_PR-ES-001(02)YY.md",
     "Procesos/Códigos/Anexos/ANX_PR-ES-001(03)YY_PP.md",
@@ -44,10 +137,33 @@
     "Procesos/Códigos/Anexos/ANX_PR-SO-005(04)YY-ZZ_XX.md",
     "Procesos/Códigos/Anexos/ANX_PR-SO-006(01)YY-ZZ.md",
     "Procesos/Códigos/Anexos/ANX_PR-SO-006(02)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_PR-SO-007(015)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_PR-SO-008(04)YY-ZZ-1.md",
+    "Procesos/Códigos/Anexos/ANX_PR-SO-008(08)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-SO-008(08)YY-ZZ-1.md",
+    "Procesos/Códigos/Anexos/ANX_PR-SO-008(09)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_PR-SO-008(09)YY-ZZ-1.md",
     "Procesos/Códigos/Anexos/ANX_PR-SO-009(01)PP.md",
     "Procesos/Códigos/Anexos/ANX_PR-SO-009(02a).md",
     "Procesos/Códigos/Anexos/ANX_PR-SO-009(02b)PP.md",
     "Procesos/Códigos/Anexos/ANX_PR-SO-009(02c).md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-001-01(01)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-001-01(02)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-01(01a)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-01(01b)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-01(01c)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-01(01d)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-01(01d)YY-ZZ-1.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-01(02a)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-01(02b)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-01(02b)YY-ZZ-1.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-02(01a)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-02(01b)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-02(01c)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-02(01c)YY-ZZ-1_TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-02(02a)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-02(02b)YY-ZZ_TT.md",
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-02(02b)YY-ZZ-1_TT.md",
     "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(01)TT.md",
     "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(02)TT.md",
     "Procesos/Códigos/Anexos/ANX_SBPR-ES-002-01(03)TT.md",
@@ -111,6 +227,85 @@
     "Procesos/Códigos/Anexos/ANX_SBPR-SO-004-02(03)YY-ZZ.md",
     "Procesos/Códigos/Anexos/ANX_SBPR-SO-004-02(04)YY-ZZ.md",
     "Procesos/Códigos/Anexos/ANX_SBPR-SO-004-02(05)YY-ZZ.md",
+    "Procesos/Códigos/Anexos/ANX-SBPR-CL-001-02(01)YY-ZZ_TT_SS.md",
+    "Procesos/Códigos/Anexos/ANX-SBPR-CL-001-02(02)YY-ZZ_TT.md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-001(01).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-001(02).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-001(03).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-003(01a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-003(02a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-003(02b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-003(02c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-003(02d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-003(02e).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-003(02f).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-004(01a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-004(02a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-004(02b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-004(02c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-004(02d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-004(02e).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-005(01a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-005(02a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-005(02b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-005(03a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-005(03b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-005(03c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-006(01a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-006(01b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-006(01c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-006(01d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-006(02a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-006(02b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-006(02c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-006(02d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-009(01).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-009(02).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-009(03).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-011(01a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-011(02a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-011(02b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-011(02c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-011(02d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-011(02e).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-011(02f).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-012(01a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-012(02a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-012(02b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-012(02c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-012(02d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-013(01a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-013(01b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(01a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(01b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(01c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(02a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(02b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(02c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(02d).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(02e).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(02f).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(02g).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(03a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(03b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(04a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(04b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(05a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(05b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-018(01).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-018(02).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-018(03).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-018(04).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-018(05).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-018(06).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-018(07).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-019(01a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-019(01b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-019(01c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-019(02a).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-019(02b).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-019(02c).md",
+    "Procesos/Códigos/Indicadores/IND_PR-CL-019(03a).md",
     "Procesos/Códigos/Indicadores/IND_PR-ES-001(01a).md",
     "Procesos/Códigos/Indicadores/IND_PR-ES-001(02a).md",
     "Procesos/Códigos/Indicadores/IND_PR-ES-001(02b).md",
@@ -219,6 +414,15 @@
     "Procesos/Códigos/Indicadores/IND_PR-SO-006(03).md",
     "Procesos/Códigos/Indicadores/IND_PR-SO-006(04).md",
     "Procesos/Códigos/Indicadores/IND_PR-SO-006(05).md",
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-01(01a).md",
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-01(02a).md",
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-02(01a).md",
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-02(01b).md",
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-02(01c).md",
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-02(01d).md",
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-02(02a).md",
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-02(02b).md",
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-02(02c).md",
     "Procesos/Códigos/Indicadores/IND_SBPR-SO-001-01(01a).md",
     "Procesos/Códigos/Indicadores/IND_SBPR-SO-001-01(01b).md",
     "Procesos/Códigos/Indicadores/IND_SBPR-SO-001-01(01c).md",
@@ -231,6 +435,26 @@
     "Procesos/Códigos/Otros/Evidencias e indicadores recogidos en los procesos del SAIC.md",
     "Procesos/Códigos/Otros/Indicadores y evidencias de los procesos del SAIC relacionas con programas de doctorado.md",
     "Procesos/Códigos/Otros/Tasas de rendimiento académico de cada asignatura, semestre y título.md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-001(01a).md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-001(02a).md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-001(02b)YY-ZZ.md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-001(03a)YY-ZZ.md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-001(03b)YY-ZZ.md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-002(01).md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-003(01).md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-004(01a)YY-ZZ.md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-004(02a).md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-004(03a)UU.md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-004(03b)UU.md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-005(01a).md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-005(01b).md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-006(01)YY-ZZ.md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-009(01a)TT.md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-009(01b)TT.md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-009(02a)TT_EE.md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-018(01)YY-ZZ_TT.md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-019(01a)YY-ZZ_TT.md",
+    "Procesos/Códigos/Referencias/REF_PR-CL-019(01b)YY-ZZ.md",
     "Procesos/Códigos/Referencias/REF_PR-ES-001(01).md",
     "Procesos/Códigos/Referencias/REF_PR-ES-001(02).md",
     "Procesos/Códigos/Referencias/REF_PR-ES-001(03).md",
@@ -247,6 +471,7 @@
     "Procesos/Códigos/Referencias/REF_PR-ES-002(03).md",
     "Procesos/Códigos/Referencias/REF_PR-ES-002(04)TT.md",
     "Procesos/Códigos/Referencias/REF_PR-ES-002(05).md",
+    "Procesos/Códigos/Referencias/REF_PR-ES-002(06)TT.md",
     "Procesos/Códigos/Referencias/REF_PR-ES-003(01).md",
     "Procesos/Códigos/Referencias/REF_PR-ES-004(01).md",
     "Procesos/Códigos/Referencias/REF_PR-ES-004(02).md",
@@ -268,6 +493,9 @@
     "Procesos/Códigos/Referencias/REF_PR-SO-004(02)YY-ZZ-1.md",
     "Procesos/Códigos/Referencias/REF_PR-SO-005(01).md",
     "Procesos/Códigos/Referencias/REF_PR-SO-009(01).md",
+    "Procesos/Códigos/Referencias/REF_SBPR-CL-001-01(01)YY-ZZ.md",
+    "Procesos/Códigos/Referencias/REF_SBPR-CL-001-02(01)YY-ZZ_TT_SS.md",
+    "Procesos/Códigos/Referencias/REF_SBPR-CL-001-02(02)YY-ZZ_TT.md",
     "Procesos/Códigos/Referencias/REF_SBPR-ES-002-01(01).md",
     "Procesos/Códigos/Referencias/REF_SBPR-ES-002-01(02)TT.md",
     "Procesos/Códigos/Referencias/REF_SBPR-ES-002-01(03)TT.md",
@@ -277,36 +505,83 @@
     "Procesos/Códigos/Referencias/REF_SBPR-ES-002-05(01)TT.md",
     "Procesos/Códigos/Referencias/REF_SBPR-ES-002-05(02)TT.md",
     "Procesos/Códigos/Referencias/REF_SBPR-SO-004-02(01).md",
-    "Procesos/Estratégicos/Subprocesos/SBPR-ES-002-01 Diseño Titulaciones Oficiales.md",
-    "Procesos/Estratégicos/Subprocesos/SBPR-ES-002-02 Verificación Titulaciones Oficiales.md",
-    "Procesos/Estratégicos/Subprocesos/SBPR-ES-002-03 Modificación Titulaciones Oficiales.md",
-    "Procesos/Estratégicos/Subprocesos/SBPR-ES-002-04 Extinción Titulaciones Oficiales.md",
-    "Procesos/Estratégicos/Subprocesos/SBPR-ES-002-05 Renovación Acreditación Titulo.md",
-    "Procesos/Estratégicos/Subprocesos/SBPR-ES-002-06 Seguimiento externo Titulaciones Oficiales.md",
-    "Procesos/Estratégicos/Lista Procesos Estratégicos.md",
-    "Procesos/Estratégicos/PR-ES-001 Elaboración y Revisión PAC.md",
-    "Procesos/Estratégicos/PR-ES-002 Gestión Titulaciones Oficiales.md",
-    "Procesos/Estratégicos/PR-ES-003 Seguimiento Interno de Títulos Oficiales.md",
-    "Procesos/Estratégicos/PR-ES-004 Publicación de la Información.md",
-    "Procesos/Estratégicos/PR-ES-005.md",
-    "Procesos/Estratégicos/PR-ES-006.md",
-    "Procesos/Estratégicos/PR-ES-007 Seguimiento Programas de Doctorado.md",
-    "Procesos/Estratégicos/PR-ES-008 Elaboración y Revisión de la Política y Objetivos de Calidad.md",
-    "Procesos/Estratégicos/PR-ES-009 Auditoría Interna.md",
-    "Procesos/Soporte/Subprocesos/SBPR-SO-001-01 Gestión de Personal Docente e Investigador.md",
-    "Procesos/Soporte/Subprocesos/SBPR-SO-001-02 Gestión de Personal Técnico de Gestión y Administración y Servicios.md",
-    "Procesos/Soporte/Subprocesos/SBPR-SO-004-01 Planificación de recursos materiales.md",
-    "Procesos/Soporte/Subprocesos/SBPR-SO-004-02 Mantenimiento de recursos materiales.md",
-    "Procesos/Soporte/Lista Procesos Soporte.md",
-    "Procesos/Soporte/PR-SO-001 Gestión de Personal.md",
-    "Procesos/Soporte/PR-SO-002.md",
-    "Procesos/Soporte/PR-SO-003 Gestión de los Servicios.md",
-    "Procesos/Soporte/PR-SO-004 Gestión de los Recurso Materiales.md",
-    "Procesos/Soporte/PR-SO-005 Medición de la Satisfacción e Identificación de Necesidades.md",
-    "Procesos/Soporte/PR-SO-006 Gestión de Quejas, Sugerencias y Felicitaciones.md",
-    "Procesos/Soporte/PR-SO-007.md",
-    "Procesos/Soporte/PR-SO-008.md",
-    "Procesos/Soporte/PR-SO-009 Elaboración, Revisión y Actualización del Sistema Documental.md",
+    "Procesos/PR-Clave/Subprocesos/SBPR-CL-001-01 Planificación de la docencia y los sistemas de evaluación.md",
+    "Procesos/PR-Clave/Subprocesos/SBPR-CL-001-02 Coordinación académica.md",
+    "Procesos/PR-Clave/Subprocesos/SBPR-CL-002-01 Orientación y apoyo al estudiantado de grado.md",
+    "Procesos/PR-Clave/Subprocesos/SBPR-CL-002-02 Orientación y apoyo al estudiantado de máster.md",
+    "Procesos/PR-Clave/PR-CL-001 Coordinación de las Enseñanzas.md",
+    "Procesos/PR-Clave/PR-CL-002 Orientación y Apoyo al Estudiantado.md",
+    "Procesos/PR-Clave/PR-CL-003 Gestión de Prácticas Externas.md",
+    "Procesos/PR-Clave/PR-CL-004 Movilidad OUT.md",
+    "Procesos/PR-Clave/PR-CL-005 Movilidad IN.md",
+    "Procesos/PR-Clave/PR-CL-006 Orientación e Inserción Laboral.md",
+    "Procesos/PR-Clave/PR-CL-007.md",
+    "Procesos/PR-Clave/PR-CL-008.md",
+    "Procesos/PR-Clave/PR-CL-009 Gestión del Trabajo de Fin de Título.md",
+    "Procesos/PR-Clave/PR-CL-010.md",
+    "Procesos/PR-Clave/PR-CL-011 Admisión de Estudiantes de Doctorado.md",
+    "Procesos/PR-Clave/PR-CL-012 Seguimiento de Estudiantes de Doctorado.md",
+    "Procesos/PR-Clave/PR-CL-013 Orientación y Apoyo al Doctorando.md",
+    "Procesos/PR-Clave/PR-CL-014 Depósito y Defensa de la Tesis Doctoral.md",
+    "Procesos/PR-Clave/PR-CL-015.md",
+    "Procesos/PR-Clave/PR-CL-016.md",
+    "Procesos/PR-Clave/PR-CL-017.md",
+    "Procesos/PR-Clave/PR-CL-018 Admisión de Estudiantes de Máster.md",
+    "Procesos/PR-Clave/PR-CL-019 Gestión de Actividades Formativas en Doctorado.md",
+    "Procesos/PR-Clave/Procesos Clave (PR-CL).md",
+    "Procesos/PR-Estratégicos/Subprocesos/SBPR-ES-002-01 Diseño Titulaciones Oficiales.md",
+    "Procesos/PR-Estratégicos/Subprocesos/SBPR-ES-002-02 Verificación Titulaciones Oficiales.md",
+    "Procesos/PR-Estratégicos/Subprocesos/SBPR-ES-002-03 Modificación Titulaciones Oficiales.md",
+    "Procesos/PR-Estratégicos/Subprocesos/SBPR-ES-002-04 Extinción Titulaciones Oficiales.md",
+    "Procesos/PR-Estratégicos/Subprocesos/SBPR-ES-002-05 Renovación Acreditación Titulo.md",
+    "Procesos/PR-Estratégicos/Subprocesos/SBPR-ES-002-06 Seguimiento externo Titulaciones Oficiales.md",
+    "Procesos/PR-Estratégicos/PR-ES-001 Elaboración y Revisión PAC.md",
+    "Procesos/PR-Estratégicos/PR-ES-002 Gestión Titulaciones Oficiales.md",
+    "Procesos/PR-Estratégicos/PR-ES-003 Seguimiento Interno de Títulos Oficiales.md",
+    "Procesos/PR-Estratégicos/PR-ES-004 Publicación de la Información.md",
+    "Procesos/PR-Estratégicos/PR-ES-005.md",
+    "Procesos/PR-Estratégicos/PR-ES-006.md",
+    "Procesos/PR-Estratégicos/PR-ES-007 Seguimiento Programas de Doctorado.md",
+    "Procesos/PR-Estratégicos/PR-ES-008 Elaboración y Revisión de la Política y Objetivos de Calidad.md",
+    "Procesos/PR-Estratégicos/PR-ES-009 Auditoría Interna.md",
+    "Procesos/PR-Estratégicos/Procesos Estratégicos (PR-ES).md",
+    "Procesos/PR-Soporte/Subprocesos/SBPR-SO-001-01 Gestión de Personal Docente e Investigador.md",
+    "Procesos/PR-Soporte/Subprocesos/SBPR-SO-001-02 Gestión de Personal Técnico de Gestión y Administración y Servicios.md",
+    "Procesos/PR-Soporte/Subprocesos/SBPR-SO-004-01 Planificación de recursos materiales.md",
+    "Procesos/PR-Soporte/Subprocesos/SBPR-SO-004-02 Mantenimiento de recursos materiales.md",
+    "Procesos/PR-Soporte/PR-SO-001 Gestión de Personal.md",
+    "Procesos/PR-Soporte/PR-SO-002.md",
+    "Procesos/PR-Soporte/PR-SO-003 Gestión de los Servicios.md",
+    "Procesos/PR-Soporte/PR-SO-004 Gestión de los Recurso Materiales.md",
+    "Procesos/PR-Soporte/PR-SO-005 Medición de la Satisfacción e Identificación de Necesidades.md",
+    "Procesos/PR-Soporte/PR-SO-006 Gestión de Quejas, Sugerencias y Felicitaciones.md",
+    "Procesos/PR-Soporte/PR-SO-007.md",
+    "Procesos/PR-Soporte/PR-SO-008.md",
+    "Procesos/PR-Soporte/PR-SO-009 Elaboración, Revisión y Actualización del Sistema Documental.md",
+    "Procesos/PR-Soporte/Procesos Soporte (PR-SO).md",
+    "Procesos/Proveedores/Comisión Académica del Programa de Doctorado.md",
+    "Procesos/Proveedores/Coordinación de los títulos de máster.md",
+    "Procesos/Proveedores/Coordinación de prácticas académicas externas del Centro.md",
+    "Procesos/Proveedores/Coordinación del Programa Académico.md",
+    "Procesos/Proveedores/Escuela Internacional de Doctorado.md",
+    "Procesos/Proveedores/Observatorio Académico.md",
+    "Procesos/Proveedores/Observatorio Académico de la UPM.md",
+    "Procesos/Proveedores/Observatorio Académico de la UPM – Encuesta de inserción laboral de estudiantado.md",
+    "Procesos/Proveedores/Observatorio Académico de la UPM – Encuesta de perfil de ingreso de estudiantado.md",
+    "Procesos/Proveedores/Observatorio Académico de la UPM – Encuesta de satisfacción de estudiantado.md",
+    "Procesos/Proveedores/Observatorio Académico de la UPM – Encuesta de satisfacción de PDI.md",
+    "Procesos/Proveedores/Observatorio Académico de la UPM – Encuesta de satisfacción de PTGAS.md",
+    "Procesos/Proveedores/Observatorio Académico UPM.md",
+    "Procesos/Proveedores/Proveedores de datos.md",
+    "Procesos/Proveedores/Responsable de estudiantes del Centro.md",
+    "Procesos/Proveedores/Responsable de gestión de personal del Centro.md",
+    "Procesos/Proveedores/Responsable de los programas de doctorado del Centro.md",
+    "Procesos/Proveedores/Responsable de los programas de máster del Centro.md",
+    "Procesos/Proveedores/Responsable de relaciones con empresas del Centro.md",
+    "Procesos/Proveedores/Responsable de relaciones internacionales del Centro.md",
+    "Procesos/Proveedores/Responsable del título.md",
+    "Procesos/Proveedores/Unidad de Calidad de Rectorado UPM.md",
+    "Procesos/Proveedores/Unidad Técnica de Calidad.md",
     "Revisión/Cuarentena.md",
     "Home.md",
     "lib/scripts/graph-wasm.wasm",
@@ -369,15 +644,9 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "Plantillas/Documento.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 58,
-      "exportedPath": "plantillas/documento.html",
-      "dependencies": []
-    },
     "Plantillas/Proceso.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 111,
+      "modifiedTime": 1722012980380,
+      "sourceSize": 103,
       "exportedPath": "plantillas/proceso.html",
       "dependencies": []
     },
@@ -424,20 +693,20 @@
       "dependencies": []
     },
     "Procesos/Códigos/Anexos/ANX_PR-ES-003(01)YY-ZZ_TT_AA.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 197,
+      "modifiedTime": 1722012980380,
+      "sourceSize": 324,
       "exportedPath": "procesos/códigos/anexos/anx_pr-es-003(01)yy-zz_tt_aa.html",
       "dependencies": []
     },
     "Procesos/Códigos/Anexos/ANX_PR-ES-003(02)YY-ZZ_TT_SS.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 193,
+      "modifiedTime": 1722012980380,
+      "sourceSize": 316,
       "exportedPath": "procesos/códigos/anexos/anx_pr-es-003(02)yy-zz_tt_ss.html",
       "dependencies": []
     },
     "Procesos/Códigos/Anexos/ANX_PR-ES-003(03)YY-ZZ_TT.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 177,
+      "modifiedTime": 1722012980380,
+      "sourceSize": 284,
       "exportedPath": "procesos/códigos/anexos/anx_pr-es-003(03)yy-zz_tt.html",
       "dependencies": []
     },
@@ -1504,8 +1773,8 @@
       "dependencies": []
     },
     "Procesos/Códigos/Referencias/REF_PR-ES-003(01).md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 195,
+      "modifiedTime": 1722012980380,
+      "sourceSize": 326,
       "exportedPath": "procesos/códigos/referencias/ref_pr-es-003(01).html",
       "dependencies": []
     },
@@ -1564,8 +1833,8 @@
       "dependencies": []
     },
     "Procesos/Códigos/Referencias/REF_SBPR-ES-002-01(01).md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 165,
+      "modifiedTime": 1722012980380,
+      "sourceSize": 272,
       "exportedPath": "procesos/códigos/referencias/ref_sbpr-es-002-01(01).html",
       "dependencies": []
     },
@@ -1611,208 +1880,178 @@
       "exportedPath": "procesos/códigos/referencias/ref_sbpr-es-002-05(02)tt.html",
       "dependencies": []
     },
-    "Procesos/Estratégicos/PR-ES-005.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 92,
-      "exportedPath": "procesos/estratégicos/pr-es-005.html",
-      "dependencies": []
-    },
-    "Procesos/Estratégicos/PR-ES-006.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 92,
-      "exportedPath": "procesos/estratégicos/pr-es-006.html",
-      "dependencies": []
-    },
     "Revisión/Cuarentena.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 560,
+      "modifiedTime": 1722012980380,
+      "sourceSize": 2164,
       "exportedPath": "revisión/cuarentena.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1721991021239,
-      "sourceSize": 240692,
+      "modifiedTime": 1722012980380,
+      "sourceSize": 449881,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1721991021239,
-      "sourceSize": 35022,
+      "modifiedTime": 1722012980380,
+      "sourceSize": 70135,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 130208,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1721991021239,
+      "modifiedTime": 1722012980380,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "Procesos/Clave/Lista Procesos Clave.md": {
-      "modifiedTime": 1721991021239,
-      "sourceSize": 383,
-      "exportedPath": "procesos/clave/lista-procesos-clave.html",
-      "dependencies": []
-    },
-    "Procesos/Estratégicos/Lista Procesos Estratégicos.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 426,
-      "exportedPath": "procesos/estratégicos/lista-procesos-estratégicos.html",
-      "dependencies": []
-    },
-    "Procesos/Soporte/Lista Procesos Soporte.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 441,
-      "exportedPath": "procesos/soporte/lista-procesos-soporte.html",
       "dependencies": []
     },
     "Procesos/Códigos/Anexos/ANX_PR-ES-008(03).md": {
@@ -1858,8 +2097,8 @@
       "dependencies": []
     },
     "Procesos/Códigos/Anexos/ANX_PR-SO-005(03)YY-ZZ_XX.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 216,
+      "modifiedTime": 1722012980380,
+      "sourceSize": 341,
       "exportedPath": "procesos/códigos/anexos/anx_pr-so-005(03)yy-zz_xx.html",
       "dependencies": []
     },
@@ -2157,202 +2396,1888 @@
       "exportedPath": "procesos/códigos/referencias/ref_sbpr-so-004-02(01).html",
       "dependencies": []
     },
-    "Procesos/Estratégicos/Subprocesos/SBPR-ES-002-01 Diseño Titulaciones Oficiales.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 2110,
-      "exportedPath": "procesos/estratégicos/subprocesos/sbpr-es-002-01-diseño-titulaciones-oficiales.html",
-      "dependencies": []
-    },
-    "Procesos/Estratégicos/Subprocesos/SBPR-ES-002-02 Verificación Titulaciones Oficiales.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 1435,
-      "exportedPath": "procesos/estratégicos/subprocesos/sbpr-es-002-02-verificación-titulaciones-oficiales.html",
-      "dependencies": []
-    },
-    "Procesos/Estratégicos/Subprocesos/SBPR-ES-002-03 Modificación Titulaciones Oficiales.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 2150,
-      "exportedPath": "procesos/estratégicos/subprocesos/sbpr-es-002-03-modificación-titulaciones-oficiales.html",
-      "dependencies": []
-    },
-    "Procesos/Estratégicos/Subprocesos/SBPR-ES-002-04 Extinción Titulaciones Oficiales.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 577,
-      "exportedPath": "procesos/estratégicos/subprocesos/sbpr-es-002-04-extinción-titulaciones-oficiales.html",
-      "dependencies": []
-    },
-    "Procesos/Estratégicos/Subprocesos/SBPR-ES-002-05 Renovación Acreditación Titulo.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 2339,
-      "exportedPath": "procesos/estratégicos/subprocesos/sbpr-es-002-05-renovación-acreditación-titulo.html",
-      "dependencies": []
-    },
-    "Procesos/Estratégicos/Subprocesos/SBPR-ES-002-06 Seguimiento externo Titulaciones Oficiales.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 632,
-      "exportedPath": "procesos/estratégicos/subprocesos/sbpr-es-002-06-seguimiento-externo-titulaciones-oficiales.html",
-      "dependencies": []
-    },
-    "Procesos/Estratégicos/PR-ES-001 Elaboración y Revisión PAC.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 3726,
-      "exportedPath": "procesos/estratégicos/pr-es-001-elaboración-y-revisión-pac.html",
-      "dependencies": []
-    },
-    "Procesos/Estratégicos/PR-ES-002 Gestión Titulaciones Oficiales.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 3710,
-      "exportedPath": "procesos/estratégicos/pr-es-002-gestión-titulaciones-oficiales.html",
-      "dependencies": []
-    },
-    "Procesos/Estratégicos/PR-ES-003 Seguimiento Interno de Títulos Oficiales.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 5026,
-      "exportedPath": "procesos/estratégicos/pr-es-003-seguimiento-interno-de-títulos-oficiales.html",
-      "dependencies": []
-    },
-    "Procesos/Estratégicos/PR-ES-004 Publicación de la Información.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 11505,
-      "exportedPath": "procesos/estratégicos/pr-es-004-publicación-de-la-información.html",
-      "dependencies": []
-    },
-    "Procesos/Estratégicos/PR-ES-007 Seguimiento Programas de Doctorado.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 4155,
-      "exportedPath": "procesos/estratégicos/pr-es-007-seguimiento-programas-de-doctorado.html",
-      "dependencies": []
-    },
-    "Procesos/Estratégicos/PR-ES-008 Elaboración y Revisión de la Política y Objetivos de Calidad.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 2022,
-      "exportedPath": "procesos/estratégicos/pr-es-008-elaboración-y-revisión-de-la-política-y-objetivos-de-calidad.html",
-      "dependencies": []
-    },
-    "Procesos/Estratégicos/PR-ES-009 Auditoría Interna.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 713,
-      "exportedPath": "procesos/estratégicos/pr-es-009-auditoría-interna.html",
-      "dependencies": []
-    },
-    "Procesos/Soporte/Subprocesos/SBPR-SO-001-01 Gestión de Personal Docente e Investigador.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 1517,
-      "exportedPath": "procesos/soporte/subprocesos/sbpr-so-001-01-gestión-de-personal-docente-e-investigador.html",
-      "dependencies": []
-    },
-    "Procesos/Soporte/Subprocesos/SBPR-SO-001-02 Gestión de Personal Técnico de Gestión y Administración y Servicios.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 1134,
-      "exportedPath": "procesos/soporte/subprocesos/sbpr-so-001-02-gestión-de-personal-técnico-de-gestión-y-administración-y-servicios.html",
-      "dependencies": []
-    },
-    "Procesos/Soporte/Subprocesos/SBPR-SO-004-01 Planificación de recursos materiales.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 583,
-      "exportedPath": "procesos/soporte/subprocesos/sbpr-so-004-01-planificación-de-recursos-materiales.html",
-      "dependencies": []
-    },
-    "Procesos/Soporte/Subprocesos/SBPR-SO-004-02 Mantenimiento de recursos materiales.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 1001,
-      "exportedPath": "procesos/soporte/subprocesos/sbpr-so-004-02-mantenimiento-de-recursos-materiales.html",
-      "dependencies": []
-    },
-    "Procesos/Soporte/PR-SO-001 Gestión de Personal.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 1701,
-      "exportedPath": "procesos/soporte/pr-so-001-gestión-de-personal.html",
-      "dependencies": []
-    },
-    "Procesos/Soporte/PR-SO-002.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 0,
-      "exportedPath": "procesos/soporte/pr-so-002.html",
-      "dependencies": []
-    },
-    "Procesos/Soporte/PR-SO-003 Gestión de los Servicios.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 1439,
-      "exportedPath": "procesos/soporte/pr-so-003-gestión-de-los-servicios.html",
-      "dependencies": []
-    },
-    "Procesos/Soporte/PR-SO-004 Gestión de los Recurso Materiales.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 762,
-      "exportedPath": "procesos/soporte/pr-so-004-gestión-de-los-recurso-materiales.html",
-      "dependencies": []
-    },
-    "Procesos/Soporte/PR-SO-005 Medición de la Satisfacción e Identificación de Necesidades.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 935,
-      "exportedPath": "procesos/soporte/pr-so-005-medición-de-la-satisfacción-e-identificación-de-necesidades.html",
-      "dependencies": []
-    },
-    "Procesos/Soporte/PR-SO-006 Gestión de Quejas, Sugerencias y Felicitaciones.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 1013,
-      "exportedPath": "procesos/soporte/pr-so-006-gestión-de-quejas,-sugerencias-y-felicitaciones.html",
-      "dependencies": []
-    },
-    "Procesos/Soporte/PR-SO-007.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 0,
-      "exportedPath": "procesos/soporte/pr-so-007.html",
-      "dependencies": []
-    },
-    "Procesos/Soporte/PR-SO-008.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 0,
-      "exportedPath": "procesos/soporte/pr-so-008.html",
-      "dependencies": []
-    },
-    "Procesos/Soporte/PR-SO-009 Elaboración, Revisión y Actualización del Sistema Documental.md": {
-      "modifiedTime": 1721990363768,
-      "sourceSize": 1052,
-      "exportedPath": "procesos/soporte/pr-so-009-elaboración,-revisión-y-actualización-del-sistema-documental.html",
-      "dependencies": []
-    },
-    "Procesos/Clave/PR-CL-007.md": {
-      "modifiedTime": 1721991021239,
-      "sourceSize": 0,
-      "exportedPath": "procesos/clave/pr-cl-007.html",
-      "dependencies": []
-    },
-    "Procesos/Clave/PR-CL-008.md": {
-      "modifiedTime": 1721991021239,
-      "sourceSize": 0,
-      "exportedPath": "procesos/clave/pr-cl-008.html",
-      "dependencies": []
-    },
-    "Procesos/Clave/PR-CL-010.md": {
-      "modifiedTime": 1721991021239,
-      "sourceSize": 0,
-      "exportedPath": "procesos/clave/pr-cl-010.html",
-      "dependencies": []
-    },
-    "Procesos/Clave/PR-CL-015.md": {
-      "modifiedTime": 1721991021239,
-      "sourceSize": 0,
-      "exportedPath": "procesos/clave/pr-cl-015.html",
-      "dependencies": []
-    },
-    "Procesos/Clave/PR-CL-016.md": {
-      "modifiedTime": 1721991021239,
-      "sourceSize": 0,
-      "exportedPath": "procesos/clave/pr-cl-016.html",
-      "dependencies": []
-    },
-    "Procesos/Clave/PR-CL-017.md": {
-      "modifiedTime": 1721991021239,
-      "sourceSize": 0,
-      "exportedPath": "procesos/clave/pr-cl-017.html",
-      "dependencies": []
-    },
     "Home.md": {
-      "modifiedTime": 1721991021239,
-      "sourceSize": 260,
+      "modifiedTime": 1722012980380,
+      "sourceSize": 337,
       "exportedPath": "home.html",
+      "dependencies": []
+    },
+    "Plantillas/Dato.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 120,
+      "exportedPath": "plantillas/dato.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(01a)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 179,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(01a)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(01b)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 158,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(01b)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(01c)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 183,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(01c)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(01d)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 174,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(01d)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(01e)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 163,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(01e)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02a)YY-ZZ_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 186,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(02a)yy-zz_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02b)YY-ZZ_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 196,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(02b)yy-zz_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02c)YY-ZZ_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 173,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(02c)yy-zz_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02d)YY-ZZ_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 164,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(02d)yy-zz_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02e)YY-ZZ_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 172,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(02e)yy-zz_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02f)YY-ZZ_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 178,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(02f)yy-zz_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02g)YY-ZZ_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 215,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(02g)yy-zz_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02h)YY-ZZ_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 162,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(02h)yy-zz_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02i)YY-ZZ_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 232,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(02i)yy-zz_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02j)YY-ZZ_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 245,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(02j)yy-zz_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02k)YY-ZZ_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 186,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(02k)yy-zz_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-003(02l)YY-ZZ_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 190,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-003(02l)yy-zz_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(01)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 167,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-004(01)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(02)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 184,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-004(02)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(03)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 205,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-004(03)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(04)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 217,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-004(04)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(05)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 206,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-004(05)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(06)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 191,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-004(06)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(07)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 191,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-004(07)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(08)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 187,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-004(08)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(09)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 210,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-004(09)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-004(10)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 226,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-004(10)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-005(01)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 182,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-005(01)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-005(02)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 205,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-005(02)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-005(03)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 176,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-005(03)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-005(04)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 182,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-005(04)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-005(05)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 181,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-005(05)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-005(06)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 218,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-005(06)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-005(07)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 224,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-005(07)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-005(08)YY-ZZ_MM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 208,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-005(08)yy-zz_mm.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-006(01a)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 195,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-006(01a)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-006(01b)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 202,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-006(01b)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-006(01b)YY-ZZ-1.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 213,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-006(01b)yy-zz-1.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-006(01c)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 210,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-006(01c)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-006(01d)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 207,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-006(01d)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-006(01d)YY-ZZ-1.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 209,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-006(01d)yy-zz-1.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-006(02a)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 175,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-006(02a)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(01a)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 198,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-009(01a)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(01b)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 203,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-009(01b)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(01c)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 185,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-009(01c)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(01d)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 205,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-009(01d)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02a)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 231,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-009(02a)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02b)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 238,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-009(02b)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02c)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 225,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-009(02c)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02d)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 225,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-009(02d)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02e)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 231,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-009(02e)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02f)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 206,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-009(02f)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02g)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 202,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-009(02g)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02h)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 195,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-009(02h)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-009(02i)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 230,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-009(02i)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-011(01)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 260,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-011(01)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-011(02)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 206,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-011(02)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-011(03)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 205,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-011(03)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-011(04)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 283,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-011(04)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-011(05)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 187,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-011(05)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-012(01)EE_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 397,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-012(01)ee_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-012(02)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 236,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-012(02)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-012(03)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 216,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-012(03)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-012(04)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 273,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-012(04)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-012(05)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 295,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-012(05)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-012(06)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 298,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-012(06)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-012(07)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 218,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-012(07)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-013(01)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 211,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-013(01)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-013(02)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 219,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-013(02)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(01a)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 270,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(01a)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(01b)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 363,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(01b)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(01c)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 279,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(01c)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(01d)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 287,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(01d)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(01e)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 226,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(01e)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(01f)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 259,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(01f)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(02a)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 227,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(02a)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(02b)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 237,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(02b)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(03a)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 299,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(03a)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(03b)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 313,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(03b)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(03c)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 285,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(03c)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(03d)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 295,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(03d)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(03e)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 298,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(03e)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(03f)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 293,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(03f)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(04a)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 254,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(04a)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(04b)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 281,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(04b)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(04c)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 287,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(04c)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(04d)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 290,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(04d)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-014(04e)YY-ZZ_TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 273,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-014(04e)yy-zz_tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-017(03)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 246,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-017(03)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-018(01)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 188,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-018(01)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-018(02)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 197,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-018(02)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-018(03)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 192,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-018(03)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-018(04)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 189,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-018(04)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-018(05)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 201,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-018(05)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-019(01a)YY-ZZ_TT_XX.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 229,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-019(01a)yy-zz_tt_xx.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-019(01b)YY-ZZ_TT_XX.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 261,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-019(01b)yy-zz_tt_xx.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-019(01c)YY-ZZ_TT_XX.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 304,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-019(01c)yy-zz_tt_xx.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-019(02a)YY-ZZ_XX.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 263,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-019(02a)yy-zz_xx.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-019(02b)YY-ZZ_XX.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 295,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-019(02b)yy-zz_xx.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-CL-019(02c)YY-ZZ_XX.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 338,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-cl-019(02c)yy-zz_xx.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-SO-007(015)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 202,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-so-007(015)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-SO-008(04)YY-ZZ-1.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 194,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-so-008(04)yy-zz-1.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-SO-008(08)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 209,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-so-008(08)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-SO-008(08)YY-ZZ-1.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 200,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-so-008(08)yy-zz-1.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-SO-008(09)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 211,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-so-008(09)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_PR-SO-008(09)YY-ZZ-1.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 202,
+      "exportedPath": "procesos/códigos/anexos/anx_pr-so-008(09)yy-zz-1.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-001-01(01)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 259,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-001-01(01)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-001-01(02)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 223,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-001-01(02)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-01(01a)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 223,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-002-01(01a)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-01(01b)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 220,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-002-01(01b)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-01(01c)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 181,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-002-01(01c)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-01(01d)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 200,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-002-01(01d)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-01(01d)YY-ZZ-1.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 209,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-002-01(01d)yy-zz-1.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-01(02a)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 226,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-002-01(02a)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-01(02b)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 189,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-002-01(02b)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-01(02b)YY-ZZ-1.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 198,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-002-01(02b)yy-zz-1.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-02(01a)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 295,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-002-02(01a)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-02(01b)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 234,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-002-02(01b)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-02(01c)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 242,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-002-02(01c)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-02(01c)YY-ZZ-1_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 244,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-002-02(01c)yy-zz-1_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-02(02a)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 215,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-002-02(02a)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-02(02b)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 234,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-002-02(02b)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX_SBPR-CL-002-02(02b)YY-ZZ-1_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 236,
+      "exportedPath": "procesos/códigos/anexos/anx_sbpr-cl-002-02(02b)yy-zz-1_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX-SBPR-CL-001-02(01)YY-ZZ_TT_SS.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 238,
+      "exportedPath": "procesos/códigos/anexos/anx-sbpr-cl-001-02(01)yy-zz_tt_ss.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Anexos/ANX-SBPR-CL-001-02(02)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 220,
+      "exportedPath": "procesos/códigos/anexos/anx-sbpr-cl-001-02(02)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-001(01).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 200,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-001(01).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-001(02).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 233,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-001(02).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-001(03).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 181,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-001(03).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-003(01a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 172,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-003(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-003(02a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 272,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-003(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-003(02b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 282,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-003(02b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-003(02c).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 257,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-003(02c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-003(02d).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 267,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-003(02d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-003(02e).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 301,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-003(02e).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-003(02f).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 306,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-003(02f).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-004(01a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 147,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-004(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-004(02a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 192,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-004(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-004(02b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 176,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-004(02b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-004(02c).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 205,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-004(02c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-004(02d).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 231,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-004(02d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-004(02e).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 235,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-004(02e).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-005(01a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 176,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-005(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-005(02a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 180,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-005(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-005(02b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 176,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-005(02b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-005(03a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 228,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-005(03a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-005(03b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 205,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-005(03b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-005(03c).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 233,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-005(03c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-006(01a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 164,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-006(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-006(01b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 239,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-006(01b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-006(01c).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 176,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-006(01c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-006(01d).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 174,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-006(01d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-006(02a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 146,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-006(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-006(02b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 141,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-006(02b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-006(02c).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 185,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-006(02c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-006(02d).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 208,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-006(02d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-009(01).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 131,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-009(01).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-009(02).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 126,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-009(02).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-009(03).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 130,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-009(03).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-011(01a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 164,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-011(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-011(02a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 183,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-011(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-011(02b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 185,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-011(02b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-011(02c).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 205,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-011(02c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-011(02d).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 210,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-011(02d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-011(02e).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 207,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-011(02e).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-011(02f).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 196,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-011(02f).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-012(01a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 278,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-012(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-012(02a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 264,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-012(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-012(02b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 274,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-012(02b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-012(02c).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 243,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-012(02c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-012(02d).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 264,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-012(02d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-013(01a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 196,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-013(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-013(01b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 193,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-013(01b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(01a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 148,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-014(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(01b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 190,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-014(01b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(01c).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 183,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-014(01c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(02a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 147,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-014(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(02b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 195,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-014(02b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(02c).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 194,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-014(02c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(02d).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 171,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-014(02d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(02e).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 165,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-014(02e).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(02f).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 162,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-014(02f).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(02g).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 165,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-014(02g).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(03a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 368,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-014(03a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(03b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 366,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-014(03b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(04a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 199,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-014(04a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(04b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 214,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-014(04b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(05a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 193,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-014(05a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-014(05b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 203,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-014(05b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-018(01).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 193,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-018(01).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-018(02).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 158,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-018(02).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-018(03).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 155,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-018(03).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-018(04).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 181,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-018(04).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-018(05).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 185,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-018(05).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-018(06).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 183,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-018(06).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-018(07).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 172,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-018(07).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-019(01a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 202,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-019(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-019(01b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 226,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-019(01b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-019(01c).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 228,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-019(01c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-019(02a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 239,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-019(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-019(02b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 200,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-019(02b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-019(02c).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 202,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-019(02c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_PR-CL-019(03a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 226,
+      "exportedPath": "procesos/códigos/indicadores/ind_pr-cl-019(03a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-01(01a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 219,
+      "exportedPath": "procesos/códigos/indicadores/ind_sbpr-cl-002-01(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-01(02a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 280,
+      "exportedPath": "procesos/códigos/indicadores/ind_sbpr-cl-002-01(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-02(01a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 253,
+      "exportedPath": "procesos/códigos/indicadores/ind_sbpr-cl-002-02(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-02(01b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 264,
+      "exportedPath": "procesos/códigos/indicadores/ind_sbpr-cl-002-02(01b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-02(01c).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 193,
+      "exportedPath": "procesos/códigos/indicadores/ind_sbpr-cl-002-02(01c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-02(01d).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 227,
+      "exportedPath": "procesos/códigos/indicadores/ind_sbpr-cl-002-02(01d).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-02(02a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 216,
+      "exportedPath": "procesos/códigos/indicadores/ind_sbpr-cl-002-02(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-02(02b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 215,
+      "exportedPath": "procesos/códigos/indicadores/ind_sbpr-cl-002-02(02b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Indicadores/IND_SBPR-CL-002-02(02c).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 225,
+      "exportedPath": "procesos/códigos/indicadores/ind_sbpr-cl-002-02(02c).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-001(01a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 426,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-001(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-001(02a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 229,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-001(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-001(02b)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 257,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-001(02b)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-001(03a)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 286,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-001(03a)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-001(03b)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 310,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-001(03b)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-002(01).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 283,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-002(01).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-003(01).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 167,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-003(01).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-004(01a)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 221,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-004(01a)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-004(02a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 133,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-004(02a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-004(03a)UU.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 288,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-004(03a)uu.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-004(03b)UU.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 246,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-004(03b)uu.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-005(01a).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 129,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-005(01a).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-005(01b).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 138,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-005(01b).html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-006(01)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 205,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-006(01)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-009(01a)TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 163,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-009(01a)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-009(01b)TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 168,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-009(01b)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-009(02a)TT_EE.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 224,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-009(02a)tt_ee.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-018(01)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 184,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-018(01)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-019(01a)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 211,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-019(01a)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-CL-019(01b)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 243,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-cl-019(01b)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_PR-ES-002(06)TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 437,
+      "exportedPath": "procesos/códigos/referencias/ref_pr-es-002(06)tt.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_SBPR-CL-001-01(01)YY-ZZ.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 198,
+      "exportedPath": "procesos/códigos/referencias/ref_sbpr-cl-001-01(01)yy-zz.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_SBPR-CL-001-02(01)YY-ZZ_TT_SS.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 233,
+      "exportedPath": "procesos/códigos/referencias/ref_sbpr-cl-001-02(01)yy-zz_tt_ss.html",
+      "dependencies": []
+    },
+    "Procesos/Códigos/Referencias/REF_SBPR-CL-001-02(02)YY-ZZ_TT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 215,
+      "exportedPath": "procesos/códigos/referencias/ref_sbpr-cl-001-02(02)yy-zz_tt.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/Subprocesos/SBPR-CL-001-01 Planificación de la docencia y los sistemas de evaluación.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 577,
+      "exportedPath": "procesos/pr-clave/subprocesos/sbpr-cl-001-01-planificación-de-la-docencia-y-los-sistemas-de-evaluación.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/Subprocesos/SBPR-CL-001-02 Coordinación académica.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 2359,
+      "exportedPath": "procesos/pr-clave/subprocesos/sbpr-cl-001-02-coordinación-académica.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/Subprocesos/SBPR-CL-002-01 Orientación y apoyo al estudiantado de grado.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 1829,
+      "exportedPath": "procesos/pr-clave/subprocesos/sbpr-cl-002-01-orientación-y-apoyo-al-estudiantado-de-grado.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/Subprocesos/SBPR-CL-002-02 Orientación y apoyo al estudiantado de máster.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 2609,
+      "exportedPath": "procesos/pr-clave/subprocesos/sbpr-cl-002-02-orientación-y-apoyo-al-estudiantado-de-máster.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-001 Coordinación de las Enseñanzas.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 1111,
+      "exportedPath": "procesos/pr-clave/pr-cl-001-coordinación-de-las-enseñanzas.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-002 Orientación y Apoyo al Estudiantado.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 656,
+      "exportedPath": "procesos/pr-clave/pr-cl-002-orientación-y-apoyo-al-estudiantado.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-003 Gestión de Prácticas Externas.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 4809,
+      "exportedPath": "procesos/pr-clave/pr-cl-003-gestión-de-prácticas-externas.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-004 Movilidad OUT.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 3462,
+      "exportedPath": "procesos/pr-clave/pr-cl-004-movilidad-out.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-005 Movilidad IN.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 3133,
+      "exportedPath": "procesos/pr-clave/pr-cl-005-movilidad-in.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-006 Orientación e Inserción Laboral.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 3282,
+      "exportedPath": "procesos/pr-clave/pr-cl-006-orientación-e-inserción-laboral.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-007.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/pr-clave/pr-cl-007.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-008.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/pr-clave/pr-cl-008.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-009 Gestión del Trabajo de Fin de Título.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 3436,
+      "exportedPath": "procesos/pr-clave/pr-cl-009-gestión-del-trabajo-de-fin-de-título.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-010.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/pr-clave/pr-cl-010.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-011 Admisión de Estudiantes de Doctorado.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 2514,
+      "exportedPath": "procesos/pr-clave/pr-cl-011-admisión-de-estudiantes-de-doctorado.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-012 Seguimiento de Estudiantes de Doctorado.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 3338,
+      "exportedPath": "procesos/pr-clave/pr-cl-012-seguimiento-de-estudiantes-de-doctorado.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-013 Orientación y Apoyo al Doctorando.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 1136,
+      "exportedPath": "procesos/pr-clave/pr-cl-013-orientación-y-apoyo-al-doctorando.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-014 Depósito y Defensa de la Tesis Doctoral.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 7887,
+      "exportedPath": "procesos/pr-clave/pr-cl-014-depósito-y-defensa-de-la-tesis-doctoral.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-015.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/pr-clave/pr-cl-015.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-016.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/pr-clave/pr-cl-016.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-017.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/pr-clave/pr-cl-017.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-018 Admisión de Estudiantes de Máster.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 2387,
+      "exportedPath": "procesos/pr-clave/pr-cl-018-admisión-de-estudiantes-de-máster.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/PR-CL-019 Gestión de Actividades Formativas en Doctorado.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 3749,
+      "exportedPath": "procesos/pr-clave/pr-cl-019-gestión-de-actividades-formativas-en-doctorado.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Clave/Procesos Clave (PR-CL).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 823,
+      "exportedPath": "procesos/pr-clave/procesos-clave-(pr-cl).html",
+      "dependencies": []
+    },
+    "Procesos/PR-Estratégicos/Subprocesos/SBPR-ES-002-01 Diseño Titulaciones Oficiales.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 2110,
+      "exportedPath": "procesos/pr-estratégicos/subprocesos/sbpr-es-002-01-diseño-titulaciones-oficiales.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Estratégicos/Subprocesos/SBPR-ES-002-02 Verificación Titulaciones Oficiales.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 1435,
+      "exportedPath": "procesos/pr-estratégicos/subprocesos/sbpr-es-002-02-verificación-titulaciones-oficiales.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Estratégicos/Subprocesos/SBPR-ES-002-03 Modificación Titulaciones Oficiales.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 2150,
+      "exportedPath": "procesos/pr-estratégicos/subprocesos/sbpr-es-002-03-modificación-titulaciones-oficiales.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Estratégicos/Subprocesos/SBPR-ES-002-04 Extinción Titulaciones Oficiales.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 577,
+      "exportedPath": "procesos/pr-estratégicos/subprocesos/sbpr-es-002-04-extinción-titulaciones-oficiales.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Estratégicos/Subprocesos/SBPR-ES-002-05 Renovación Acreditación Titulo.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 2339,
+      "exportedPath": "procesos/pr-estratégicos/subprocesos/sbpr-es-002-05-renovación-acreditación-titulo.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Estratégicos/Subprocesos/SBPR-ES-002-06 Seguimiento externo Titulaciones Oficiales.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 632,
+      "exportedPath": "procesos/pr-estratégicos/subprocesos/sbpr-es-002-06-seguimiento-externo-titulaciones-oficiales.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Estratégicos/PR-ES-001 Elaboración y Revisión PAC.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 3726,
+      "exportedPath": "procesos/pr-estratégicos/pr-es-001-elaboración-y-revisión-pac.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Estratégicos/PR-ES-002 Gestión Titulaciones Oficiales.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 3710,
+      "exportedPath": "procesos/pr-estratégicos/pr-es-002-gestión-titulaciones-oficiales.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Estratégicos/PR-ES-003 Seguimiento Interno de Títulos Oficiales.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 5050,
+      "exportedPath": "procesos/pr-estratégicos/pr-es-003-seguimiento-interno-de-títulos-oficiales.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Estratégicos/PR-ES-004 Publicación de la Información.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 11537,
+      "exportedPath": "procesos/pr-estratégicos/pr-es-004-publicación-de-la-información.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Estratégicos/PR-ES-005.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 92,
+      "exportedPath": "procesos/pr-estratégicos/pr-es-005.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Estratégicos/PR-ES-006.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 92,
+      "exportedPath": "procesos/pr-estratégicos/pr-es-006.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Estratégicos/PR-ES-007 Seguimiento Programas de Doctorado.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 4171,
+      "exportedPath": "procesos/pr-estratégicos/pr-es-007-seguimiento-programas-de-doctorado.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Estratégicos/PR-ES-008 Elaboración y Revisión de la Política y Objetivos de Calidad.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 2042,
+      "exportedPath": "procesos/pr-estratégicos/pr-es-008-elaboración-y-revisión-de-la-política-y-objetivos-de-calidad.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Estratégicos/PR-ES-009 Auditoría Interna.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 713,
+      "exportedPath": "procesos/pr-estratégicos/pr-es-009-auditoría-interna.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Estratégicos/Procesos Estratégicos (PR-ES).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 426,
+      "exportedPath": "procesos/pr-estratégicos/procesos-estratégicos-(pr-es).html",
+      "dependencies": []
+    },
+    "Procesos/PR-Soporte/Subprocesos/SBPR-SO-001-01 Gestión de Personal Docente e Investigador.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 1513,
+      "exportedPath": "procesos/pr-soporte/subprocesos/sbpr-so-001-01-gestión-de-personal-docente-e-investigador.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Soporte/Subprocesos/SBPR-SO-001-02 Gestión de Personal Técnico de Gestión y Administración y Servicios.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 1138,
+      "exportedPath": "procesos/pr-soporte/subprocesos/sbpr-so-001-02-gestión-de-personal-técnico-de-gestión-y-administración-y-servicios.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Soporte/Subprocesos/SBPR-SO-004-01 Planificación de recursos materiales.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 583,
+      "exportedPath": "procesos/pr-soporte/subprocesos/sbpr-so-004-01-planificación-de-recursos-materiales.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Soporte/Subprocesos/SBPR-SO-004-02 Mantenimiento de recursos materiales.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 1001,
+      "exportedPath": "procesos/pr-soporte/subprocesos/sbpr-so-004-02-mantenimiento-de-recursos-materiales.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Soporte/PR-SO-001 Gestión de Personal.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 1701,
+      "exportedPath": "procesos/pr-soporte/pr-so-001-gestión-de-personal.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Soporte/PR-SO-002.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/pr-soporte/pr-so-002.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Soporte/PR-SO-003 Gestión de los Servicios.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 1443,
+      "exportedPath": "procesos/pr-soporte/pr-so-003-gestión-de-los-servicios.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Soporte/PR-SO-004 Gestión de los Recurso Materiales.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 762,
+      "exportedPath": "procesos/pr-soporte/pr-so-004-gestión-de-los-recurso-materiales.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Soporte/PR-SO-005 Medición de la Satisfacción e Identificación de Necesidades.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 939,
+      "exportedPath": "procesos/pr-soporte/pr-so-005-medición-de-la-satisfacción-e-identificación-de-necesidades.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Soporte/PR-SO-006 Gestión de Quejas, Sugerencias y Felicitaciones.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 1017,
+      "exportedPath": "procesos/pr-soporte/pr-so-006-gestión-de-quejas,-sugerencias-y-felicitaciones.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Soporte/PR-SO-007.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/pr-soporte/pr-so-007.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Soporte/PR-SO-008.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/pr-soporte/pr-so-008.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Soporte/PR-SO-009 Elaboración, Revisión y Actualización del Sistema Documental.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 1052,
+      "exportedPath": "procesos/pr-soporte/pr-so-009-elaboración,-revisión-y-actualización-del-sistema-documental.html",
+      "dependencies": []
+    },
+    "Procesos/PR-Soporte/Procesos Soporte (PR-SO).md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 441,
+      "exportedPath": "procesos/pr-soporte/procesos-soporte-(pr-so).html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Comisión Académica del Programa de Doctorado.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/comisión-académica-del-programa-de-doctorado.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Coordinación de los títulos de máster.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/coordinación-de-los-títulos-de-máster.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Coordinación de prácticas académicas externas del Centro.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/coordinación-de-prácticas-académicas-externas-del-centro.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Coordinación del Programa Académico.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/coordinación-del-programa-académico.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Escuela Internacional de Doctorado.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/escuela-internacional-de-doctorado.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Observatorio Académico.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/observatorio-académico.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Observatorio Académico de la UPM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/observatorio-académico-de-la-upm.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Observatorio Académico de la UPM – Encuesta de inserción laboral de estudiantado.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/observatorio-académico-de-la-upm-–-encuesta-de-inserción-laboral-de-estudiantado.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Observatorio Académico de la UPM – Encuesta de perfil de ingreso de estudiantado.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/observatorio-académico-de-la-upm-–-encuesta-de-perfil-de-ingreso-de-estudiantado.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Observatorio Académico de la UPM – Encuesta de satisfacción de estudiantado.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/observatorio-académico-de-la-upm-–-encuesta-de-satisfacción-de-estudiantado.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Observatorio Académico de la UPM – Encuesta de satisfacción de PDI.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/observatorio-académico-de-la-upm-–-encuesta-de-satisfacción-de-pdi.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Observatorio Académico de la UPM – Encuesta de satisfacción de PTGAS.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/observatorio-académico-de-la-upm-–-encuesta-de-satisfacción-de-ptgas.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Observatorio Académico UPM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/observatorio-académico-upm.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Proveedores de datos.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 1209,
+      "exportedPath": "procesos/proveedores/proveedores-de-datos.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Responsable de estudiantes del Centro.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/responsable-de-estudiantes-del-centro.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Responsable de gestión de personal del Centro.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/responsable-de-gestión-de-personal-del-centro.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Responsable de los programas de doctorado del Centro.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/responsable-de-los-programas-de-doctorado-del-centro.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Responsable de los programas de máster del Centro.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/responsable-de-los-programas-de-máster-del-centro.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Responsable de relaciones con empresas del Centro.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/responsable-de-relaciones-con-empresas-del-centro.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Responsable de relaciones internacionales del Centro.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/responsable-de-relaciones-internacionales-del-centro.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Responsable del título.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/responsable-del-título.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Unidad de Calidad de Rectorado UPM.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/unidad-de-calidad-de-rectorado-upm.html",
+      "dependencies": []
+    },
+    "Procesos/Proveedores/Unidad Técnica de Calidad.md": {
+      "modifiedTime": 1722012980380,
+      "sourceSize": 0,
+      "exportedPath": "procesos/proveedores/unidad-técnica-de-calidad.html",
       "dependencies": []
     }
   }
