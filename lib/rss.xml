@@ -1,4 +1,38 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SAIC 2.2]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>SAIC 2.2</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 26 Jul 2024 10:39:42 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 26 Jul 2024 10:39:23 GMT</pubDate><copyright><![CDATA[Jose Barambones]]></copyright><ttl>60</ttl><dc:creator>Jose Barambones</dc:creator><item><title><![CDATA[Documento]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SAIC 2.2]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>SAIC 2.2</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 26 Jul 2024 10:50:22 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 26 Jul 2024 10:50:21 GMT</pubDate><copyright><![CDATA[Jose Barambones]]></copyright><ttl>60</ttl><dc:creator>Jose Barambones</dc:creator><item><title><![CDATA[Lista Procesos Clave]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="PR-CL-001" href="\PR-CL-001" class="internal-link" target="_self" rel="noopener">PR-CL-001</a>
+<br><a data-href="PR-CL-002" href="\PR-CL-002" class="internal-link" target="_self" rel="noopener">PR-CL-002</a>
+<br><a data-href="PR-CL-003" href="\PR-CL-003" class="internal-link" target="_self" rel="noopener">PR-CL-003</a>
+<br><a data-href="PR-CL-004" href="\PR-CL-004" class="internal-link" target="_self" rel="noopener">PR-CL-004</a>
+<br><a data-href="PR-CL-005" href="\PR-CL-005" class="internal-link" target="_self" rel="noopener">PR-CL-005</a>
+<br><a data-href="PR-CL-006" href="\PR-CL-006" class="internal-link" target="_self" rel="noopener">PR-CL-006</a>
+<br><a data-href="PR-CL-007" href="\procesos\clave\pr-cl-007.html" class="internal-link" target="_self" rel="noopener">PR-CL-007</a> Rectorado UPM
+<br><a data-href="PR-CL-008" href="\procesos\clave\pr-cl-008.html" class="internal-link" target="_self" rel="noopener">PR-CL-008</a> Rectorado UPM
+<br><a data-href="PR-CL-009" href="\PR-CL-009" class="internal-link" target="_self" rel="noopener">PR-CL-009</a>
+<br><a data-href="PR-CL-010" href="\procesos\clave\pr-cl-010.html" class="internal-link" target="_self" rel="noopener">PR-CL-010</a> Rectorado UPM
+<br><a data-href="PR-CL-011" href="\PR-CL-011" class="internal-link" target="_self" rel="noopener">PR-CL-011</a>
+<br><a data-href="PR-CL-012" href="\PR-CL-012" class="internal-link" target="_self" rel="noopener">PR-CL-012</a>
+<br><a data-href="PR-CL-013" href="\PR-CL-013" class="internal-link" target="_self" rel="noopener">PR-CL-013</a>
+<br><a data-href="PR-CL-014" href="\PR-CL-014" class="internal-link" target="_self" rel="noopener">PR-CL-014</a>
+<br><a data-href="PR-CL-015" href="\procesos\clave\pr-cl-015.html" class="internal-link" target="_self" rel="noopener">PR-CL-015</a> CANCELADO
+<br><a data-href="PR-CL-016" href="\procesos\clave\pr-cl-016.html" class="internal-link" target="_self" rel="noopener">PR-CL-016</a> Rectorado UPM
+<br><a data-href="PR-CL-017" href="\procesos\clave\pr-cl-017.html" class="internal-link" target="_self" rel="noopener">PR-CL-017</a> Rectorado UPM
+<br><a data-href="PR-CL-018" href="\PR-CL-018" class="internal-link" target="_self" rel="noopener">PR-CL-018</a>
+<br><a data-href="PR-CL-019" href="\PR-CL-019" class="internal-link" target="_self" rel="noopener">PR-CL-019</a>
+]]></description><link>procesos\clave\lista-procesos-clave.html</link><guid isPermaLink="false">Procesos/Clave/Lista Procesos Clave.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Fri, 26 Jul 2024 10:42:40 GMT</pubDate></item><item><title><![CDATA[PR-CL-007]]></title><description><![CDATA[ 
+ ]]></description><link>procesos\clave\pr-cl-007.html</link><guid isPermaLink="false">Procesos/Clave/PR-CL-007.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Fri, 26 Jul 2024 10:42:43 GMT</pubDate></item><item><title><![CDATA[PR-CL-008]]></title><description><![CDATA[ 
+ ]]></description><link>procesos\clave\pr-cl-008.html</link><guid isPermaLink="false">Procesos/Clave/PR-CL-008.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Fri, 26 Jul 2024 10:42:46 GMT</pubDate></item><item><title><![CDATA[PR-CL-010]]></title><description><![CDATA[ 
+ ]]></description><link>procesos\clave\pr-cl-010.html</link><guid isPermaLink="false">Procesos/Clave/PR-CL-010.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Fri, 26 Jul 2024 10:42:49 GMT</pubDate></item><item><title><![CDATA[PR-CL-015]]></title><description><![CDATA[ 
+ ]]></description><link>procesos\clave\pr-cl-015.html</link><guid isPermaLink="false">Procesos/Clave/PR-CL-015.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Fri, 26 Jul 2024 10:42:50 GMT</pubDate></item><item><title><![CDATA[PR-CL-016]]></title><description><![CDATA[ 
+ ]]></description><link>procesos\clave\pr-cl-016.html</link><guid isPermaLink="false">Procesos/Clave/PR-CL-016.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Fri, 26 Jul 2024 10:42:52 GMT</pubDate></item><item><title><![CDATA[PR-CL-017]]></title><description><![CDATA[ 
+ ]]></description><link>procesos\clave\pr-cl-017.html</link><guid isPermaLink="false">Procesos/Clave/PR-CL-017.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Fri, 26 Jul 2024 10:42:55 GMT</pubDate></item><item><title><![CDATA[Home]]></title><description><![CDATA[ 
+ <br>Mapa de procesos Sistema de Aseguramiento Interno de Calidad (SAIC) de la ETSI Informáticos.<br>
+<br><a data-href="Lista Procesos Estratégicos" href="\procesos\estratégicos\lista-procesos-estratégicos.html" class="internal-link" target="_self" rel="noopener">Lista Procesos Estratégicos</a> (PR-ES)
+<br><a data-href="Lista Procesos Soporte" href="\procesos\soporte\lista-procesos-soporte.html" class="internal-link" target="_self" rel="noopener">Lista Procesos Soporte</a> (PR-SO)
+<br><a data-href="Lista Procesos Clave" href="\procesos\clave\lista-procesos-clave.html" class="internal-link" target="_self" rel="noopener">Lista Procesos Clave</a> (PR-CL)
+<br><br>
+<br>Códigos en <a data-href="Cuarentena" href="\revisión\cuarentena.html" class="internal-link" target="_self" rel="noopener">Cuarentena</a>
+]]></description><link>home.html</link><guid isPermaLink="false">Home.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Thu, 25 Jul 2024 12:04:50 GMT</pubDate></item><item><title><![CDATA[Documento]]></title><description><![CDATA[ 
  <br><br>
 <br>
 <br><br>
@@ -2424,25 +2458,4 @@
 <br><a data-href="ANX_PR-SO-009(02c)" href="\procesos\códigos\anexos\anx_pr-so-009(02c).html" class="internal-link" target="_self" rel="noopener">ANX_PR-SO-009(02c)</a> (usa un asterisco en "actualizado").
 <br><br>
 <br><a data-href="PR-SO-004 Gestión de los Recurso Materiales" href="\procesos\soporte\pr-so-004-gestión-de-los-recurso-materiales.html" class="internal-link" target="_self" rel="noopener">PR-SO-004 Gestión de los Recurso Materiales</a>
-]]></description><link>revisión\cuarentena.html</link><guid isPermaLink="false">Revisión/Cuarentena.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Fri, 26 Jul 2024 10:34:05 GMT</pubDate></item><item><title><![CDATA[Lista Procesos Clave]]></title><description><![CDATA[ 
- <br>
-<br><a data-href="PR-CL-001" href="\PR-CL-001" class="internal-link" target="_self" rel="noopener">PR-CL-001</a>
-<br><a data-href="PR-CL-002" href="\PR-CL-002" class="internal-link" target="_self" rel="noopener">PR-CL-002</a>
-<br><a data-href="PR-CL-003" href="\PR-CL-003" class="internal-link" target="_self" rel="noopener">PR-CL-003</a>
-<br><a data-href="PR-CL-004" href="\PR-CL-004" class="internal-link" target="_self" rel="noopener">PR-CL-004</a>
-<br><a data-href="PR-CL-005" href="\PR-CL-005" class="internal-link" target="_self" rel="noopener">PR-CL-005</a>
-<br><a data-href="PR-CL-006" href="\PR-CL-006" class="internal-link" target="_self" rel="noopener">PR-CL-006</a>
-<br><a data-href="PR-CL-007" href="\PR-CL-007" class="internal-link" target="_self" rel="noopener">PR-CL-007</a>
-<br><a data-href="PR-CL-008" href="\PR-CL-008" class="internal-link" target="_self" rel="noopener">PR-CL-008</a>
-<br><a data-href="PR-CL-009" href="\PR-CL-009" class="internal-link" target="_self" rel="noopener">PR-CL-009</a>
-<br><a data-href="PR-CL-010" href="\PR-CL-010" class="internal-link" target="_self" rel="noopener">PR-CL-010</a>
-<br><a data-href="PR-CL-011" href="\PR-CL-011" class="internal-link" target="_self" rel="noopener">PR-CL-011</a>
-<br><a data-href="PR-CL-012" href="\PR-CL-012" class="internal-link" target="_self" rel="noopener">PR-CL-012</a>
-<br><a data-href="PR-CL-013" href="\PR-CL-013" class="internal-link" target="_self" rel="noopener">PR-CL-013</a>
-<br><a data-href="PR-CL-014" href="\PR-CL-014" class="internal-link" target="_self" rel="noopener">PR-CL-014</a>
-<br><a data-href="PR-CL-015" href="\PR-CL-015" class="internal-link" target="_self" rel="noopener">PR-CL-015</a>
-<br><a data-href="PR-CL-016" href="\PR-CL-016" class="internal-link" target="_self" rel="noopener">PR-CL-016</a>
-<br><a data-href="PR-CL-017" href="\PR-CL-017" class="internal-link" target="_self" rel="noopener">PR-CL-017</a>
-<br><a data-href="PR-CL-018" href="\PR-CL-018" class="internal-link" target="_self" rel="noopener">PR-CL-018</a>
-<br><a data-href="PR-CL-019" href="\PR-CL-019" class="internal-link" target="_self" rel="noopener">PR-CL-019</a>
-]]></description><link>procesos\clave\lista-procesos-clave.html</link><guid isPermaLink="false">Procesos/Clave/Lista Procesos Clave.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Thu, 25 Jul 2024 11:36:35 GMT</pubDate></item></channel></rss>
+]]></description><link>revisión\cuarentena.html</link><guid isPermaLink="false">Revisión/Cuarentena.md</guid><dc:creator><![CDATA[Jose Barambones]]></dc:creator><pubDate>Fri, 26 Jul 2024 10:34:05 GMT</pubDate></item></channel></rss>
